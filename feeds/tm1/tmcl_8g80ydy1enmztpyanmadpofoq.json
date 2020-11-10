@@ -6,7 +6,8 @@
       "shortName": "Crystal Palace",
       "officialName": "Crystal Palace FC",
       "code": "CRY",
-      "lastUpdated": "2019-11-18T03:37:09Z"
+      "lastUpdated": "2019-11-18T03:37:09Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "1pse9ta7a45pi2w2grjim70ge",
@@ -14,7 +15,8 @@
       "shortName": "Bournemouth",
       "officialName": "AFC Bournemouth",
       "code": "BOR",
-      "lastUpdated": "2020-01-04T21:22:58Z"
+      "lastUpdated": "2020-01-04T21:22:58Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "22doj4sgsocqpxw45h607udje",
@@ -22,7 +24,8 @@
       "shortName": "Tottenham",
       "officialName": "Tottenham Hotspur FC",
       "code": "TOT",
-      "lastUpdated": "2020-01-28T11:31:58Z"
+      "lastUpdated": "2020-01-28T11:31:58Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "410jti6axb01yhvbc0axsp8li",
@@ -30,7 +33,8 @@
       "shortName": "Swansea",
       "officialName": "Swansea City AFC",
       "code": "SWA",
-      "lastUpdated": "2019-12-14T16:44:57Z"
+      "lastUpdated": "2019-12-14T16:44:57Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "4dsgumo7d4zupm2ugsvm4zm4d",
@@ -38,7 +42,8 @@
       "shortName": "Arsenal",
       "officialName": "Arsenal FC",
       "code": "ARS",
-      "lastUpdated": "2020-02-20T18:53:21Z"
+      "lastUpdated": "2020-02-20T18:53:21Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "4qioq44vcv619vnyy2rpovk4e",
@@ -46,7 +51,8 @@
       "shortName": "Stoke",
       "officialName": "Stoke City FC",
       "code": "STO",
-      "lastUpdated": "2019-12-13T13:35:50Z"
+      "lastUpdated": "2019-12-13T13:35:50Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "4t83rqbdbekinxl5fz2ygsyta",
@@ -54,7 +60,8 @@
       "shortName": "Watford",
       "officialName": "Watford FC",
       "code": "WAT",
-      "lastUpdated": "2020-01-04T15:12:29Z"
+      "lastUpdated": "2020-01-04T15:12:29Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "4txjdaqveermfryvbfrr4taf7",
@@ -62,7 +69,8 @@
       "shortName": "West Ham",
       "officialName": "West Ham United FC",
       "code": "WHU",
-      "lastUpdated": "2019-12-30T16:07:58Z"
+      "lastUpdated": "2019-12-30T16:07:58Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "5n5baro467i8s8efkra3nhgux",
@@ -70,7 +78,8 @@
       "shortName": "Huddersfield",
       "officialName": "Huddersfield Town FC",
       "code": "HUD",
-      "lastUpdated": "2019-12-22T07:50:47Z"
+      "lastUpdated": "2019-12-22T07:50:47Z",
+      "countryId": ""
     },
     {
       "id": "64bxxwu2mv2qqlv0monbkj1om",
@@ -78,7 +87,8 @@
       "shortName": "Burnley",
       "officialName": "Burnley FC",
       "code": "BUR",
-      "lastUpdated": "2020-01-04T12:42:12Z"
+      "lastUpdated": "2020-01-04T12:42:12Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "6eqit8ye8aomdsrrq0hk3v7gh",
@@ -86,7 +96,8 @@
       "shortName": "Man Utd",
       "officialName": "Manchester United FC",
       "code": "MUN",
-      "lastUpdated": "2020-02-07T22:07:57Z"
+      "lastUpdated": "2020-02-07T22:07:57Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "7vn2i2kd35zuetw6b38gw9jsz",
@@ -94,7 +105,8 @@
       "shortName": "Newcastle",
       "officialName": "Newcastle United FC",
       "code": "NEW",
-      "lastUpdated": "2020-03-03T19:56:03Z"
+      "lastUpdated": "2020-03-03T19:56:03Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "9q0arba2kbnywth8bkxlhgmdr",
@@ -102,7 +114,8 @@
       "shortName": "Chelsea",
       "officialName": "Chelsea FC",
       "code": "CHE",
-      "lastUpdated": "2020-02-28T11:18:02Z"
+      "lastUpdated": "2020-02-28T11:18:02Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "a3nyxabgsqlnqfkeg41m6tnpp",
@@ -110,7 +123,8 @@
       "shortName": "Man City",
       "officialName": "Manchester City FC",
       "code": "MCI",
-      "lastUpdated": "2020-03-01T19:13:12Z"
+      "lastUpdated": "2020-03-01T19:13:12Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "avxknfz4f6ob0rv9dbnxdzde0",
@@ -118,7 +132,8 @@
       "shortName": "Leicester",
       "officialName": "Leicester City FC",
       "code": "LEI",
-      "lastUpdated": "2020-03-04T22:37:38Z"
+      "lastUpdated": "2020-03-04T22:37:38Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "c8h9bw1l82s06h77xxrelzhur",
@@ -126,7 +141,8 @@
       "shortName": "Liverpool",
       "officialName": "Liverpool FC",
       "code": "LIV",
-      "lastUpdated": "2020-02-03T21:58:56Z"
+      "lastUpdated": "2020-02-03T21:58:56Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "d1lhefp805y0rcbjqkpu4fq0n",
@@ -134,7 +150,8 @@
       "shortName": "West Bromwich",
       "officialName": "West Bromwich Albion FC",
       "code": "WBA",
-      "lastUpdated": "2020-01-10T16:45:57Z"
+      "lastUpdated": "2020-01-10T16:45:57Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "d5ydtvt96bv7fq04yqm2w2632",
@@ -142,7 +159,8 @@
       "shortName": "Southampton",
       "officialName": "Southampton FC",
       "code": "SOT",
-      "lastUpdated": "2020-01-10T08:29:08Z"
+      "lastUpdated": "2020-01-10T08:29:08Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "e5p0ehyguld7egzhiedpdnc3w",
@@ -150,7 +168,8 @@
       "shortName": "Brighton",
       "officialName": "Brighton & Hove Albion FC",
       "code": "BRI",
-      "lastUpdated": "2019-11-10T04:36:37Z"
+      "lastUpdated": "2019-11-10T04:36:37Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     },
     {
       "id": "ehd2iemqmschhj2ec0vayztzz",
@@ -158,7 +177,8 @@
       "shortName": "Everton",
       "officialName": "Everton FC",
       "code": "EVE",
-      "lastUpdated": "2019-12-30T16:05:55Z"
+      "lastUpdated": "2019-12-30T16:05:55Z",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6"
     }
   ],
   "lastUpdated": "2020-03-04T22:39:46Z"
