@@ -1,0 +1,3820 @@
+{
+    "competition": {
+      "id": "722fdbecxzcq9788l6jqclzlw",
+      "name": "2. Bundesliga",
+      "lastUpdated": "2017-03-02T05:03:40Z"
+    },
+    "tournamentCalendar": {
+      "id": "408bfjw6uz5k19zk4am50ykmh",
+      "name": "2015/2016",
+      "startDate": "2015-07-24Z",
+      "endDate": "2016-05-15Z",
+      "lastUpdated": "2017-03-02T04:30:52Z"
+    },
+    "matchDate": [
+      {
+        "date": "2015-07-24Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "balaorsarpd8pl5jguqlai0h5",
+            "coverageLevel": "13",
+            "date": "2015-07-24Z",
+            "time": "18:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2015-07-25Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bb2y8ltks9vk1hc3zgkvgak89",
+            "coverageLevel": "13",
+            "date": "2015-07-25Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "bb6505zab0qgbpec863y6iw2x",
+            "coverageLevel": "13",
+            "date": "2015-07-25Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bbd4fb8xs4jcsxcfc9elnrlk9",
+            "coverageLevel": "13",
+            "date": "2015-07-25Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-07-26Z",
+        "numberOfGames": "4",
+        "match": [
+          {
+            "id": "baszldco81goe4bwpkc5q1y3t",
+            "coverageLevel": "13",
+            "date": "2015-07-26Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "bawe8rk0vgh32icr5a3rjcauh",
+            "coverageLevel": "13",
+            "date": "2015-07-26Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bazueikjvzt1r0zw329ir1kh5",
+            "coverageLevel": "13",
+            "date": "2015-07-26Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bb99vx6ydp0hn50m6voxsj8bt",
+            "coverageLevel": "13",
+            "date": "2015-07-26Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2015-07-27Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bapf77yy6alx08a00u1x1bqp5",
+            "coverageLevel": "13",
+            "date": "2015-07-27Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2015-07-31Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bbnfr4ew52778nusub6yhcru1",
+            "coverageLevel": "13",
+            "date": "2015-07-31Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bc2i4mp1y5tz0y08l3bjcbzl5",
+            "coverageLevel": "13",
+            "date": "2015-07-31Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bbi7fhdrfw1mcf8hz6was79pl",
+            "coverageLevel": "13",
+            "date": "2015-07-31Z",
+            "time": "18:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-01Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bbsnaoxee0ftrluw27i7g36qx",
+            "coverageLevel": "13",
+            "date": "2015-08-01Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bbvdw4l5127wcebwkzyat4gdl",
+            "coverageLevel": "13",
+            "date": "2015-08-01Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-02Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bbq1x7mygdpqq9qvndat1ewh5",
+            "coverageLevel": "13",
+            "date": "2015-08-02Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bbfovlo472c2g02c2bfw0vlyh",
+            "coverageLevel": "13",
+            "date": "2015-08-02Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "bbzdk832i6cbiiyp0o9qktckp",
+            "coverageLevel": "13",
+            "date": "2015-08-02Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-03Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bbkrs9wz3q24q37j2ikcd4bmx",
+            "coverageLevel": "13",
+            "date": "2015-08-03Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-14Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bc7kbw0id7smq8kck7le2lmuh",
+            "coverageLevel": "13",
+            "date": "2015-08-14Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bck69mgka74rg2vjr5bikx7mx",
+            "coverageLevel": "13",
+            "date": "2015-08-14Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bcmkkcx64pc7g8kdhuggocfe1",
+            "coverageLevel": "13",
+            "date": "2015-08-14Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-15Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bc53habso6qj590uguhixf8bt",
+            "coverageLevel": "13",
+            "date": "2015-08-15Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "bca6imx7588uncf9cyx3mpsyx",
+            "coverageLevel": "13",
+            "date": "2015-08-15Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-16Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bcf9bcf9oujpsk53xgjd4gdm1",
+            "coverageLevel": "13",
+            "date": "2015-08-16Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "bchn9jlxkfd0ih7euu4wih0x5",
+            "coverageLevel": "13",
+            "date": "2015-08-16Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bcp61zcu87kr58b77g4ab5s6h",
+            "coverageLevel": "13",
+            "date": "2015-08-16Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-17Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bccseixr0byipejp7r3xivbah",
+            "coverageLevel": "13",
+            "date": "2015-08-17Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-21Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bd4fb2i5cco7fpq1nooxtf6qx",
+            "coverageLevel": "13",
+            "date": "2015-08-21Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bdbonsk55bfpp9ejnlbzcm67d",
+            "coverageLevel": "13",
+            "date": "2015-08-21Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bdefvy9z5l7dyl6tmb3tiup61",
+            "coverageLevel": "13",
+            "date": "2015-08-21Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-22Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bcrpcuysla1yrmbbfdsd90zjd",
+            "coverageLevel": "13",
+            "date": "2015-08-22Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bcz4aqs0l7epbm12nxk205hpl",
+            "coverageLevel": "13",
+            "date": "2015-08-22Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-23Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bcwrq5phpshwoxdwkibskwag9",
+            "coverageLevel": "13",
+            "date": "2015-08-23Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "bd1z0ifky31bo9avqrin8s5wp",
+            "coverageLevel": "13",
+            "date": "2015-08-23Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bd6zrmizgjltcyr5obnkqzld5",
+            "coverageLevel": "13",
+            "date": "2015-08-23Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-24Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bcu5a5qarcq84g76r3hn1lskp",
+            "coverageLevel": "13",
+            "date": "2015-08-24Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "SC Paderborn 07"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-28Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bdh03n3lbu0lv60b5ks6msgkp",
+            "coverageLevel": "13",
+            "date": "2015-08-28Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bdriq929k5pdgz4zlq0jbs8h5",
+            "coverageLevel": "13",
+            "date": "2015-08-28Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "bdwwhi4xgm0qdm4bzskktsn3d",
+            "coverageLevel": "13",
+            "date": "2015-08-28Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-29Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bdjom9lzyofzx3gpt8f0r3w89",
+            "coverageLevel": "13",
+            "date": "2015-08-29Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "be1sijt6ujgg0hoizuq8abg89",
+            "coverageLevel": "13",
+            "date": "2015-08-29Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-30Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bdm8ykv0ynm3e1odrwtfplu5l",
+            "coverageLevel": "13",
+            "date": "2015-08-30Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "bdoyud241nieozycs7taahgq1",
+            "coverageLevel": "13",
+            "date": "2015-08-30Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bdzeqtetlmjgro10wm2tltw4p",
+            "coverageLevel": "13",
+            "date": "2015-08-30Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2015-08-31Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bduapnfca2yrnxwmiqo14sueh",
+            "coverageLevel": "13",
+            "date": "2015-08-31Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-11Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "be6r9z7axcgsuatshebnqk92h",
+            "coverageLevel": "13",
+            "date": "2015-09-11Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "be9j7st5jlbnepw0a9of92cix",
+            "coverageLevel": "13",
+            "date": "2015-09-11Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bekvfw6mlyeclrhv5hesj6kmh",
+            "coverageLevel": "13",
+            "date": "2015-09-11Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-12Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "be4cwg14h5msmm528ihptdvc9",
+            "coverageLevel": "13",
+            "date": "2015-09-12Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bes6g95u2gryvb5o2kdwbeoyx",
+            "coverageLevel": "13",
+            "date": "2015-09-12Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-13Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bec8op8i3114jhloajdsixj3d",
+            "coverageLevel": "13",
+            "date": "2015-09-13Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "beeyrgs5mbafc0ai8mzg43561",
+            "coverageLevel": "13",
+            "date": "2015-09-13Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bep6hi0fcx60y9iqogv9ix8tl",
+            "coverageLevel": "13",
+            "date": "2015-09-13Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-14Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "behy7ir2lad1vng08vbxqf46h",
+            "coverageLevel": "13",
+            "date": "2015-09-14Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "MSV Duisburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-18Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bev0gios1bljvrqnosirr8u09",
+            "coverageLevel": "13",
+            "date": "2015-09-18Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bf8dgaw9dzhpdq44s3iw6x2i1",
+            "coverageLevel": "13",
+            "date": "2015-09-18Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bfd9t01y9mgy7jsyg1j4qpre1",
+            "coverageLevel": "13",
+            "date": "2015-09-18Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-19Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bexeyeh1311tv0ywwo32oh1bd",
+            "coverageLevel": "13",
+            "date": "2015-09-19Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "bf36wkevkf4l0agdjgdvu30tl",
+            "coverageLevel": "13",
+            "date": "2015-09-19Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bfawpfrwwgoiw1a9ci2p0qrc9",
+            "coverageLevel": "13",
+            "date": "2015-09-19Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-20Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bf0ss7ypi2z8r35ij1cmthcyx",
+            "coverageLevel": "13",
+            "date": "2015-09-20Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "bf5y3brx9ukz5uqp92t83fysp",
+            "coverageLevel": "13",
+            "date": "2015-09-20Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bfgmoh2igjvrt98wrry2dirjd",
+            "coverageLevel": "13",
+            "date": "2015-09-20Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "FSV Frankfurt"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-22Z",
+        "numberOfGames": "4",
+        "match": [
+          {
+            "id": "bfjs4hsjbjw93dz4wtv8w35yh",
+            "coverageLevel": "13",
+            "date": "2015-09-22Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bfmpgkd8007uo754ykixywd7t",
+            "coverageLevel": "13",
+            "date": "2015-09-22Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bfwlia2xrjjbe1kensnkq5qsp",
+            "coverageLevel": "13",
+            "date": "2015-09-22Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bg2w4j95wlz0ql2nc34sn7fft",
+            "coverageLevel": "13",
+            "date": "2015-09-22Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-23Z",
+        "numberOfGames": "4",
+        "match": [
+          {
+            "id": "bfrqicybmjfmp64ez1uirfizt",
+            "coverageLevel": "13",
+            "date": "2015-09-23Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bfu2z7tb7d1kw0y74668id5ux",
+            "coverageLevel": "13",
+            "date": "2015-09-23Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bfyx76oxfdahk4kyeeapbrkrt",
+            "coverageLevel": "13",
+            "date": "2015-09-23Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bg5g1au5ddew387q56yj0kx61",
+            "coverageLevel": "13",
+            "date": "2015-09-23Z",
+            "time": "15:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-24Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bfp30hbyj3qwh67h99eg9eyuh",
+            "coverageLevel": "13",
+            "date": "2015-09-24Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-25Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bgfuj7d2pb9gbqibtokw8jje1",
+            "coverageLevel": "13",
+            "date": "2015-09-25Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bgibgyk8lp4n5tgo5ca7yqyuh",
+            "coverageLevel": "13",
+            "date": "2015-09-25Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bgn610ac8mc49y4drkxtzcp2h",
+            "coverageLevel": "13",
+            "date": "2015-09-25Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-26Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bgat4fa92stnoxueoerzigiqx",
+            "coverageLevel": "13",
+            "date": "2015-09-26Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "bgksvp2bhwnlbq88uoarva7s9",
+            "coverageLevel": "13",
+            "date": "2015-09-26Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "MSV Duisburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-27Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bg8284iozvpbqh3h1t4o7emll",
+            "coverageLevel": "13",
+            "date": "2015-09-27Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bgpmg1gaal95o4fi217nf6six",
+            "coverageLevel": "13",
+            "date": "2015-09-27Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "bgs0v4ba7nh5x84elw0m8lv55",
+            "coverageLevel": "13",
+            "date": "2015-09-27Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-09-28Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bgdcjxynuhgvfkv1t9d551srt",
+            "coverageLevel": "13",
+            "date": "2015-09-28Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-02Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bgx1wvtz7doed2eft70hmv7c9",
+            "coverageLevel": "13",
+            "date": "2015-10-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bhbrd3c7wwetrbsuqhvca6cx5",
+            "coverageLevel": "13",
+            "date": "2015-10-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bhegq89xzz77cigftga47e6sp",
+            "coverageLevel": "13",
+            "date": "2015-10-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-03Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bh4mjuv4ljfb8mc3r30ys3kyx",
+            "coverageLevel": "13",
+            "date": "2015-10-03Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "bh750mk3bqjqibvkkicawrysp",
+            "coverageLevel": "13",
+            "date": "2015-10-03Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "SV Sandhausen"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-04Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bguhbh9u8xgz7ng37euu8nyzt",
+            "coverageLevel": "13",
+            "date": "2015-10-04Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "bgzjfgt7xekdbbsdpj8estazt",
+            "coverageLevel": "13",
+            "date": "2015-10-04Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bh22wuhk2wk5ikfzqm8o4jdux",
+            "coverageLevel": "13",
+            "date": "2015-10-04Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-05Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bhh1frc9jf3ylpf98hp5zklih",
+            "coverageLevel": "13",
+            "date": "2015-10-05Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "SC Paderborn 07"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-16Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bhmchtdc38gfsmvbk3tncrvmx",
+            "coverageLevel": "13",
+            "date": "2015-10-16Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "bhrstl51rxyf6z4q4pi4mjjs9",
+            "coverageLevel": "13",
+            "date": "2015-10-16Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bi5hb82sh0ie48wd4hbb09f55",
+            "coverageLevel": "13",
+            "date": "2015-10-16Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-17Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bhp5mjrs0j74a5bwvdzwybrah",
+            "coverageLevel": "13",
+            "date": "2015-10-17Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bhujtcasx8mzsgue972arene1",
+            "coverageLevel": "13",
+            "date": "2015-10-17Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-18Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bhjnb9hj61mk12fijzntq6fah",
+            "coverageLevel": "13",
+            "date": "2015-10-18Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bhx7uo76nbg23durxwxtwi5m1",
+            "coverageLevel": "13",
+            "date": "2015-10-18Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "bi2r1vh7ruali3zr3jgp4hfjd",
+            "coverageLevel": "13",
+            "date": "2015-10-18Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "MSV Duisburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-19Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bi018vkc8ltfdfms9r15t91ih",
+            "coverageLevel": "13",
+            "date": "2015-10-19Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-23Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bibcucxny0czpu6wrwo9l7bvt",
+            "coverageLevel": "13",
+            "date": "2015-10-23Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bijbsbuetdcobev0mx8itmprd",
+            "coverageLevel": "13",
+            "date": "2015-10-23Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bivjb97sl3p9mn23oqljno7vt",
+            "coverageLevel": "13",
+            "date": "2015-10-23Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-24Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bi8iqh1g5v3bktim4eszi0zc9",
+            "coverageLevel": "13",
+            "date": "2015-10-24Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "bigoupb1gc6z0uz4rszyo2acp",
+            "coverageLevel": "13",
+            "date": "2015-10-24Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bj4mja0b7n7ft48azv5jfnwtl",
+            "coverageLevel": "13",
+            "date": "2015-10-24Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-25Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bie0swrinacmd3tqfy1tqpka1",
+            "coverageLevel": "13",
+            "date": "2015-10-25Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bim26tfo5we0ie5v6xguups6h",
+            "coverageLevel": "13",
+            "date": "2015-10-25Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "biys9at8nzsb7x3aad9csg9nt",
+            "coverageLevel": "13",
+            "date": "2015-10-25Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "SV Sandhausen"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-30Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bjh8vkwzr8ru9yh0lkq2g3tnt",
+            "coverageLevel": "13",
+            "date": "2015-10-30Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bjn2mhhndrnzwb3bplcmbq8kp",
+            "coverageLevel": "13",
+            "date": "2015-10-30Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bjprquuqh8l19gpx2dkx68tex",
+            "coverageLevel": "13",
+            "date": "2015-10-30Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2015-10-31Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bjem93igl9apoi95giqrd4cfd",
+            "coverageLevel": "13",
+            "date": "2015-10-31Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bjv7e7yv7qu41g8k5vgsbbcvd",
+            "coverageLevel": "13",
+            "date": "2015-10-31Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-01Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bjbgpe2o4e7ckxhoi0df4m4mh",
+            "coverageLevel": "13",
+            "date": "2015-11-01Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "bjsi5lmah3jupd92lalx7ocmh",
+            "coverageLevel": "13",
+            "date": "2015-11-01Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bjy3bylz5qafx9m3rlvxmrfft",
+            "coverageLevel": "13",
+            "date": "2015-11-01Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-02Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bjk0fcmhkhv33uls3bw3r8hd5",
+            "coverageLevel": "13",
+            "date": "2015-11-02Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-06Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bk4536bnkmm9ki2zg5ujgmxux",
+            "coverageLevel": "13",
+            "date": "2015-11-06Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "bkf3ap4xmj604v93i9f3xjf8p",
+            "coverageLevel": "13",
+            "date": "2015-11-06Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bkmlyi12entg5zvt3sjrbk2jt",
+            "coverageLevel": "13",
+            "date": "2015-11-06Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "SV Sandhausen"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-07Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bkc6g1v9fzqbouezzty7z5d61",
+            "coverageLevel": "13",
+            "date": "2015-11-07Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bkpo1mno65z7775v5i1p35xpl",
+            "coverageLevel": "13",
+            "date": "2015-11-07Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-08Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bk155qyuue33jpgmd4wb8di3t",
+            "coverageLevel": "13",
+            "date": "2015-11-08Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bk6xd5riz8vltpqfuqn833und",
+            "coverageLevel": "13",
+            "date": "2015-11-08Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "bk9iszjrhiedqzs8galp3e0h5",
+            "coverageLevel": "13",
+            "date": "2015-11-08Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-09Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bkjnl00zm9eo991ph582i63ft",
+            "coverageLevel": "13",
+            "date": "2015-11-09Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-20Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bnk9i4upml9v2kvv10c6nhqsp",
+            "coverageLevel": "13",
+            "date": "2015-11-20Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bno4bf8gm7ug9zfev2ngxuju1",
+            "coverageLevel": "13",
+            "date": "2015-11-20Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bnwo9ps6lrcs984qcllq96rc9",
+            "coverageLevel": "13",
+            "date": "2015-11-20Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-21Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bnqzyjy1rnw011rcbwo2bmgo9",
+            "coverageLevel": "13",
+            "date": "2015-11-21Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "bnzddyga43088lvg50eiyi4fd",
+            "coverageLevel": "13",
+            "date": "2015-11-21Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-22Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bksoqag133edn0850zt8o5hpl",
+            "coverageLevel": "13",
+            "date": "2015-11-22Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bna1qxdjlnzx0coqhtktxupd5",
+            "coverageLevel": "13",
+            "date": "2015-11-22Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bnu1xvsxx1ieewqmhahd296uh",
+            "coverageLevel": "13",
+            "date": "2015-11-22Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-23Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bnfq39o991gr74kgrpgdg9wix",
+            "coverageLevel": "13",
+            "date": "2015-11-23Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-27Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bod6iegg9114nce8wyfdrw8a1",
+            "coverageLevel": "13",
+            "date": "2015-11-27Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "boklajxuxh9fvvovexb8g9815",
+            "coverageLevel": "13",
+            "date": "2015-11-27Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "bo7p8oal3mtc3z1tqu6sfivvt",
+            "coverageLevel": "13",
+            "date": "2015-11-27Z",
+            "time": "17:40:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-28Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bo1zrr214yg8c635nr1slhvxl",
+            "coverageLevel": "13",
+            "date": "2015-11-28Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "boal8m3gg7zmy2uxheqhd7q3t",
+            "coverageLevel": "13",
+            "date": "2015-11-28Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-29Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "boftz7vv2erz99ltm98ea5695",
+            "coverageLevel": "13",
+            "date": "2015-11-29Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bonv883l0446ir5obkvcf0vzd",
+            "coverageLevel": "13",
+            "date": "2015-11-29Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "boqjsuil4vrfxoodlof4nqay1",
+            "coverageLevel": "13",
+            "date": "2015-11-29Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "SV Sandhausen"
+          }
+        ]
+      },
+      {
+        "date": "2015-11-30Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bo4tu3h3z6xlyeaq640e2hiax",
+            "coverageLevel": "13",
+            "date": "2015-11-30Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-04Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bp1ekm6dp173cpgha25phbh7t",
+            "coverageLevel": "13",
+            "date": "2015-12-04Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bpgn2ldfoo2f3brucda7i00kp",
+            "coverageLevel": "13",
+            "date": "2015-12-04Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bpl0xh98ojacmxkbm7z9258mh",
+            "coverageLevel": "13",
+            "date": "2015-12-04Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-05Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "botbs0zgd8plzhgeiso04q8dl",
+            "coverageLevel": "13",
+            "date": "2015-12-05Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bpq221hi9y45aau9bpo4a5qsp",
+            "coverageLevel": "13",
+            "date": "2015-12-05Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-06Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bow7abss9bah29hfvzolw17mx",
+            "coverageLevel": "13",
+            "date": "2015-12-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "boyulqf674h6ajg4lt47egpux",
+            "coverageLevel": "13",
+            "date": "2015-12-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bpbejfd22s2n3x1dmmed3jt2h",
+            "coverageLevel": "13",
+            "date": "2015-12-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-07Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bp5kx504r0xnjb9ss6fisflyh",
+            "coverageLevel": "13",
+            "date": "2015-12-07Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-11Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bq8544ct3k4gqzy8igl4jb1t5",
+            "coverageLevel": "13",
+            "date": "2015-12-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bqcs6ud2ytdm1p6cq4776fg15",
+            "coverageLevel": "13",
+            "date": "2015-12-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bqfgzu22sshq0piyvfkls6i21",
+            "coverageLevel": "13",
+            "date": "2015-12-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-12Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bpsnwl2ekuxww8bsdx3irxckp",
+            "coverageLevel": "13",
+            "date": "2015-12-12Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bq5l2ht5qm7d4xt0sjfp56sx5",
+            "coverageLevel": "13",
+            "date": "2015-12-12Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-13Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bpx82m48tkeiz6lpho0jz7qi1",
+            "coverageLevel": "13",
+            "date": "2015-12-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bpzx70z3lrjiyq0fzap8s42cp",
+            "coverageLevel": "13",
+            "date": "2015-12-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bq2vj4711eflqg9p16jr4ij1l",
+            "coverageLevel": "13",
+            "date": "2015-12-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-14Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bqih6myorn08k0tkdnefurill",
+            "coverageLevel": "13",
+            "date": "2015-12-14Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-18Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bqyv86xk3e7gyradvs0lo4ezt",
+            "coverageLevel": "13",
+            "date": "2015-12-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "br3ye8av6qpgq40wzhvzaks15",
+            "coverageLevel": "13",
+            "date": "2015-12-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "br98vxeoiuo5obpujemtackix",
+            "coverageLevel": "13",
+            "date": "2015-12-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-19Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "br1btzrjn1rz7yk79yjy29s6h",
+            "coverageLevel": "13",
+            "date": "2015-12-19Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "br6ldft56evf5u5o4lhm0pomh",
+            "coverageLevel": "13",
+            "date": "2015-12-19Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-20Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bqmrci751el79ntbxgmd8b6cp",
+            "coverageLevel": "13",
+            "date": "2015-12-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bqwaao8uk9f89k2dyyxree31l",
+            "coverageLevel": "13",
+            "date": "2015-12-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "brbq7fmgd7jsv01qwl7gz597t",
+            "coverageLevel": "13",
+            "date": "2015-12-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2015-12-21Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bqrn2rbrazx5qdkzrqcw3gxk9",
+            "coverageLevel": "13",
+            "date": "2015-12-21Z",
+            "time": "19:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-05Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "brh4s7x0taq6xl36z5t671xwp",
+            "coverageLevel": "13",
+            "date": "2016-02-05Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "brpbqz1alxe8y4tsdiwrq3kkp",
+            "coverageLevel": "13",
+            "date": "2016-02-05Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "bryz9trj0jtg7cfa685qcbhex",
+            "coverageLevel": "13",
+            "date": "2016-02-05Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "SC Paderborn 07"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-06Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "brmnzbzu1ej3kx4fp9cx87r3d",
+            "coverageLevel": "13",
+            "date": "2016-02-06Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "brw6xzjer2t905ob190aarqi1",
+            "coverageLevel": "13",
+            "date": "2016-02-06Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-07Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bredwvi5j4oz9xbjg0mrusb1l",
+            "coverageLevel": "13",
+            "date": "2016-02-07Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "brk5syz872bcuo9bic8jjcqnd",
+            "coverageLevel": "13",
+            "date": "2016-02-07Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "brticjgpepcgo72782f38ha09",
+            "coverageLevel": "13",
+            "date": "2016-02-07Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-08Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bs1p2znhap6gtjwtjeeth2vhl",
+            "coverageLevel": "13",
+            "date": "2016-02-08Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "MSV Duisburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-12Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bs7506qvttugy9p9je6jyo8vd",
+            "coverageLevel": "13",
+            "date": "2016-02-12Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "bsjew78ywh6ty1pfih4ac1qll",
+            "coverageLevel": "13",
+            "date": "2016-02-12Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "bsoqs23lp6j8l3ist67rzlp0p",
+            "coverageLevel": "13",
+            "date": "2016-02-12Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-13Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bsm17gyhjvqvmvrvzg28zsp2h",
+            "coverageLevel": "13",
+            "date": "2016-02-13Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bsrbnp5c9m5s9thhc8ohq1bzd",
+            "coverageLevel": "13",
+            "date": "2016-02-13Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-14Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bs4ahmrggq3h9lwtpxd2mg63t",
+            "coverageLevel": "13",
+            "date": "2016-02-14Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bs9stocwq8urqtyos80tlkxrd",
+            "coverageLevel": "13",
+            "date": "2016-02-14Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bsgq9t19ab8mtwnhro4il0zjd",
+            "coverageLevel": "13",
+            "date": "2016-02-14Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-15Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bsd1zauqgi7e2wz2ozuvy5dd5",
+            "coverageLevel": "13",
+            "date": "2016-02-15Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-19Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bszxgizazj7ahv0of1nudx5ux",
+            "coverageLevel": "13",
+            "date": "2016-02-19Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bt5hc7h3dsj8qgdszsrf3952h",
+            "coverageLevel": "13",
+            "date": "2016-02-19Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bt9tjtvlwo4pvi89k37vzszc9",
+            "coverageLevel": "13",
+            "date": "2016-02-19Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "FSV Frankfurt"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-20Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bsu6pjne1eqz2hs8r3685vbhl",
+            "coverageLevel": "13",
+            "date": "2016-02-20Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "bswr9agriq3xclgvz14dcsjc9",
+            "coverageLevel": "13",
+            "date": "2016-02-20Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-21Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "btd4jceeyja9256le3zv8yx9l",
+            "coverageLevel": "13",
+            "date": "2016-02-21Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "btgejtwr7qkogf9nagfzvnnc9",
+            "coverageLevel": "13",
+            "date": "2016-02-21Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "btizsdw1gm6qjgfl0aly6zkkp",
+            "coverageLevel": "13",
+            "date": "2016-02-21Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "SC Paderborn 07"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-22Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bt2vqxe2b88ct5az9wz54rsh5",
+            "coverageLevel": "13",
+            "date": "2016-02-22Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-26Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "btosc2scx2fwus3mcb3lqs0rt",
+            "coverageLevel": "13",
+            "date": "2016-02-26Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "btx92j8t30h4x66pzv3kjp9t5",
+            "coverageLevel": "13",
+            "date": "2016-02-26Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "btubx54xztrdfzvombqa8dvjd",
+            "coverageLevel": "13",
+            "date": "2016-02-26Z",
+            "time": "17:45:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-27Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "btlo9hkcqfmymh1m0bj4ja67d",
+            "coverageLevel": "13",
+            "date": "2016-02-27Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "btzw0qwml7c0fpk1wnrwco63t",
+            "coverageLevel": "13",
+            "date": "2016-02-27Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bu2oeds6fx1zem025omp0r3zd",
+            "coverageLevel": "13",
+            "date": "2016-02-27Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-02-28Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "btroqkmhucn2emrc5zd0mh9m1",
+            "coverageLevel": "13",
+            "date": "2016-02-28Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "bu634uq4g719lyewpu5bscycp",
+            "coverageLevel": "13",
+            "date": "2016-02-28Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bu8tmqkrlhlr9pa05dn3upl2h",
+            "coverageLevel": "13",
+            "date": "2016-02-28Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-01Z",
+        "numberOfGames": "5",
+        "match": [
+          {
+            "id": "bublt7pb72vh893oljxv4vlyh",
+            "coverageLevel": "13",
+            "date": "2016-03-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bue727h0f33zlm8ub6x248w6h",
+            "coverageLevel": "13",
+            "date": "2016-03-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bujdnh064n1zglafdau2j5qll",
+            "coverageLevel": "13",
+            "date": "2016-03-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "bum2b2qv6w0s4gjy6h3f9b7qh",
+            "coverageLevel": "13",
+            "date": "2016-03-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "butiweftgn38lsf6zn1x1o161",
+            "coverageLevel": "13",
+            "date": "2016-03-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-02Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bugutd8abr4q246tut79zplnt",
+            "coverageLevel": "13",
+            "date": "2016-03-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "buwa0z2gte12ubcuw3he8w4x5",
+            "coverageLevel": "13",
+            "date": "2016-03-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "buz4qhz3kuxmzah9bos01a9rd",
+            "coverageLevel": "13",
+            "date": "2016-03-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-03Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "buqomn3fpy84qaczpiqm6f10p",
+            "coverageLevel": "13",
+            "date": "2016-03-03Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-04Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bvdforj9inok9pz2d2vb9g7vt",
+            "coverageLevel": "13",
+            "date": "2016-03-04Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "bvlxpm185vkoyql2o9v03gbft",
+            "coverageLevel": "13",
+            "date": "2016-03-04Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bvag9idbng0mklr68lavchfjd",
+            "coverageLevel": "13",
+            "date": "2016-03-04Z",
+            "time": "19:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-05Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bv4qfoml28vffqo5aelbho2qx",
+            "coverageLevel": "13",
+            "date": "2016-03-05Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bvgc6t6hxp3aqm8pa031fu3mx",
+            "coverageLevel": "13",
+            "date": "2016-03-05Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "FSV Frankfurt"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-06Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bv7ealnswb7jx74rli3sfq67d",
+            "coverageLevel": "13",
+            "date": "2016-03-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bvj3d7izihrgbzkn3ojknv7xl",
+            "coverageLevel": "13",
+            "date": "2016-03-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "bvohwadc9r9pe90shqf1g26eh",
+            "coverageLevel": "13",
+            "date": "2016-03-06Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-07Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bv1tc3du39h58wll6qzq2xu5l",
+            "coverageLevel": "13",
+            "date": "2016-03-07Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-11Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bvz7ptdhdw04a0wppyhz2pwx5",
+            "coverageLevel": "13",
+            "date": "2016-03-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "bw24qs3f129e9hne0nagr9yax",
+            "coverageLevel": "13",
+            "date": "2016-03-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bweypv8efl5y2ew6b3sodgcmh",
+            "coverageLevel": "13",
+            "date": "2016-03-11Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-12Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bw7jey0bp15t8ymqh8yl6ab55",
+            "coverageLevel": "13",
+            "date": "2016-03-12Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bwhs4pfgdq25pgh7zaui61f55",
+            "coverageLevel": "13",
+            "date": "2016-03-12Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-13Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bvr9tfniufdqzahttecx4cc89",
+            "coverageLevel": "13",
+            "date": "2016-03-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bvwfyv297o1sd9zts0ij9ghd5",
+            "coverageLevel": "13",
+            "date": "2016-03-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bwa7xahpkp8vzgp1inje61f55",
+            "coverageLevel": "13",
+            "date": "2016-03-13Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-14Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bvtv8a0nx4sv0mv3ibirrkf6x",
+            "coverageLevel": "13",
+            "date": "2016-03-14Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-18Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bwo3pdfajhn918o1qew3nw161",
+            "coverageLevel": "13",
+            "date": "2016-03-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bwwc51ai6phwt57e32img1a09",
+            "coverageLevel": "13",
+            "date": "2016-03-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "bx55cu4tkp3cg1oy7wq3lqlm1",
+            "coverageLevel": "13",
+            "date": "2016-03-18Z",
+            "time": "17:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "FSV Frankfurt"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-19Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bwtk4u4gd0ttrni5ab32xnhex",
+            "coverageLevel": "13",
+            "date": "2016-03-19Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "bx97o5esherwirf2l3r680j55",
+            "coverageLevel": "13",
+            "date": "2016-03-19Z",
+            "time": "12:00:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "FC St. Pauli"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-20Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bwqr6cef1v2j3fxanfdzfk1rd",
+            "coverageLevel": "13",
+            "date": "2016-03-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          },
+          {
+            "id": "bwzav8jloy6ohnsl2f79sctm1",
+            "coverageLevel": "13",
+            "date": "2016-03-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "bx2d5sivetxkte067k6libzzd",
+            "coverageLevel": "13",
+            "date": "2016-03-20Z",
+            "time": "12:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]
+      },
+      {
+        "date": "2016-03-21Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bwl8kq7o60fi11ddtdpdeavop",
+            "coverageLevel": "13",
+            "date": "2016-03-21Z",
+            "time": "19:15:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-01Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bxl0pnedb1lnqmpluo0bxnq3t",
+            "coverageLevel": "13",
+            "date": "2016-04-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bxsh2jgu30kgyzt00ffgadall",
+            "coverageLevel": "13",
+            "date": "2016-04-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "by429eq2p3nltst1zinbm1815",
+            "coverageLevel": "13",
+            "date": "2016-04-01Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-02Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bxhzby4j32eqbh3j5phoc4usp",
+            "coverageLevel": "13",
+            "date": "2016-04-02Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "by03ym16b7h4bpylsj9307nxl",
+            "coverageLevel": "13",
+            "date": "2016-04-02Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-03Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bxbyj92q6631yr1bh09l41mnd",
+            "coverageLevel": "13",
+            "date": "2016-04-03Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "bxexpqgcit9xx7orphl7o978p",
+            "coverageLevel": "13",
+            "date": "2016-04-03Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bxvfuu941iq5t5n4df4ui07op",
+            "coverageLevel": "13",
+            "date": "2016-04-03Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "1. FC Nürnberg"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-04Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bxo1l1kojw21xphvuvncsmrjd",
+            "coverageLevel": "13",
+            "date": "2016-04-04Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-08Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "by9fowoq5i6dquh4yi8z9ucq1",
+            "coverageLevel": "13",
+            "date": "2016-04-08Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "bynhpal02pywi25jd4oamp7mx",
+            "coverageLevel": "13",
+            "date": "2016-04-08Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "byr280wd9gyktxthcf877lujt",
+            "coverageLevel": "13",
+            "date": "2016-04-08Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-09Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "byksdrgwq4lm4jwm7hvye9pt5",
+            "coverageLevel": "13",
+            "date": "2016-04-09Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "byvbknkzbnty8xrlbhnitzg15",
+            "coverageLevel": "13",
+            "date": "2016-04-09Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-10Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "by6vl5yurez8f9gndfvs68u7d",
+            "coverageLevel": "13",
+            "date": "2016-04-10Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "byc3tozaxyjoosg9541d8r2eh",
+            "coverageLevel": "13",
+            "date": "2016-04-10Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "byengrx1s4ncmctr3llr8yu3t",
+            "coverageLevel": "13",
+            "date": "2016-04-10Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "MSV Duisburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-11Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "byi1qk0gloilujwd7zzvix42x",
+            "coverageLevel": "13",
+            "date": "2016-04-11Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-15Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bz1bv2tcf71chc8page0zumll",
+            "coverageLevel": "13",
+            "date": "2016-04-15Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "bzgxijvjxqsb5wgzc8pzhnwfd",
+            "coverageLevel": "13",
+            "date": "2016-04-15Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "bzm800vh9bu2gbmuqezuvd1pl",
+            "coverageLevel": "13",
+            "date": "2016-04-15Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "TSV 1860 München"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-16Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "byy4rgg72f10ayrv78itwkvl5",
+            "coverageLevel": "13",
+            "date": "2016-04-16Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "bzecie0zhx1xpgar4yn0nlh49",
+            "coverageLevel": "13",
+            "date": "2016-04-16Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "VfL Bochum 1848"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-17Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bz7j1j4mutjajj1cacij15aeh",
+            "coverageLevel": "13",
+            "date": "2016-04-17Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "bzbs23e4k0nijr1e92je0fi09",
+            "coverageLevel": "13",
+            "date": "2016-04-17Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "bzjkxdm1s5wzxg5pkxoe5ktt5",
+            "coverageLevel": "13",
+            "date": "2016-04-17Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "1. FC Kaiserslautern"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-18Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bz4yudxp507a8jx5nwtjm88vd",
+            "coverageLevel": "13",
+            "date": "2016-04-18Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "SC Freiburg"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-22Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "bzozcavtbmpdasw5cjyr5isbt",
+            "coverageLevel": "13",
+            "date": "2016-04-22Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "bzyeulxrvfkju3143ba0nb10p",
+            "coverageLevel": "13",
+            "date": "2016-04-22Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "c0174smt6qbzol1u0aaarmq5l",
+            "coverageLevel": "13",
+            "date": "2016-04-22Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "Karlsruher SC"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-23Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bzvhowy5x83myz66g6lc37g89",
+            "coverageLevel": "13",
+            "date": "2016-04-23Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "1. FC Union Berlin"
+          },
+          {
+            "id": "c07ydpltp8a49ffumja5a3ysp",
+            "coverageLevel": "13",
+            "date": "2016-04-23Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "1.FC Heidenheim 1846",
+            "awayContestantName": "SC Paderborn 07"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-24Z",
+        "numberOfGames": "3",
+        "match": [
+          {
+            "id": "c04rjevcuetqxxs7hzphio44p",
+            "coverageLevel": "13",
+            "date": "2016-04-24Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "c0ak5l64zlqx1ltcqxg23bmcp",
+            "coverageLevel": "13",
+            "date": "2016-04-24Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "c0devstsuklp77ltzea8a1m95",
+            "coverageLevel": "13",
+            "date": "2016-04-24Z",
+            "time": "11:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-25Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "bzslzb1slzzsy70l89e5ymg2x",
+            "coverageLevel": "13",
+            "date": "2016-04-25Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-29Z",
+        "numberOfGames": "6",
+        "match": [
+          {
+            "id": "c0g5hhvinwwyjjulmxlbxhbe1",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "c0lkloyc1wzq2o7cjl63u3755",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "c0szhfixdw1vc0cl3tebhgm3t",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "c0zcug2lxcnkzk0mn1h59q0a1",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "c12dilxqljf7yrp6wds1e4k4p",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "c157kfkv36u81wd9590mabbhl",
+            "coverageLevel": "13",
+            "date": "2016-04-29Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          }
+        ]
+      },
+      {
+        "date": "2016-04-30Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "c0oie0stgxelux9t747f0kkix",
+            "coverageLevel": "13",
+            "date": "2016-04-30Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "c0wicsqf5b61govvmclunuh2h",
+            "coverageLevel": "13",
+            "date": "2016-04-30Z",
+            "time": "11:00:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          }
+        ]
+      },
+      {
+        "date": "2016-05-02Z",
+        "numberOfGames": "1",
+        "match": [
+          {
+            "id": "c0ixz9993mc9m8b2p7pizjfmx",
+            "coverageLevel": "13",
+            "date": "2016-05-02Z",
+            "time": "16:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "SV Sandhausen"
+          }
+        ]
+      },
+      {
+        "date": "2016-05-08Z",
+        "numberOfGames": "9",
+        "match": [
+          {
+            "id": "c181q4z8kf8i14wdk4um48pux",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "awayContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "homeContestantName": "SC Freiburg",
+            "awayContestantName": "1.FC Heidenheim 1846"
+          },
+          {
+            "id": "c1awop9ujpr06xwf6bbdtugo9",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "awayContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "homeContestantName": "1. FC Kaiserslautern",
+            "awayContestantName": "SpVgg Greuther Fürth"
+          },
+          {
+            "id": "c1e60d6wzfkwr1fa93f0s0jxl",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "Rasen Ballsport Leipzig",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "c1hgypw6swjiiyhmbfg5ahhih",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "awayContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "homeContestantName": "1. FC Nürnberg",
+            "awayContestantName": "FC St. Pauli"
+          },
+          {
+            "id": "c1k7i7kgooj3edrdoakd1mga1",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "awayContestantId": "153hz30hibmoywbut7io44m8b",
+            "homeContestantName": "Düsseldorfer TuS Fortuna 1895",
+            "awayContestantName": "FSV Frankfurt"
+          },
+          {
+            "id": "c1n1i1y19ajcodzhs830nl4h5",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "awayContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "homeContestantName": "VfL Bochum 1848",
+            "awayContestantName": "Braunschweiger TSV Eintracht 1895"
+          },
+          {
+            "id": "c1q1f0vdfimxuz0ady0zdnb3d",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "awayContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "homeContestantName": "TSV 1860 München",
+            "awayContestantName": "SC Paderborn 07"
+          },
+          {
+            "id": "c1stwajk5g0ezomhzwqv96dwp",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "awayContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "homeContestantName": "SV Sandhausen",
+            "awayContestantName": "MSV Duisburg"
+          },
+          {
+            "id": "c1vqv539rgzn9mhwfgbl895nt",
+            "coverageLevel": "13",
+            "date": "2016-05-08Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "awayContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "homeContestantName": "DSC Arminia Bielefeld",
+            "awayContestantName": "1. FC Union Berlin"
+          }
+        ]
+      },
+      {
+        "date": "2016-05-15Z",
+        "numberOfGames": "9",
+        "match": [
+          {
+            "id": "c1yn07ggphs2nbmcdf4br559l",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "62ljqd4za2a6svd9wgctg8b53",
+            "awayContestantId": "c8rdmlwqz77xe8yzv3r881dz3",
+            "homeContestantName": "SC Paderborn 07",
+            "awayContestantName": "1. FC Nürnberg"
+          },
+          {
+            "id": "c21kwwcdry0n8eb8bm0ohs9nt",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "Karlsruher SC",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          },
+          {
+            "id": "c24frv4g1shwc5drjv0eo9nu1",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "awayContestantId": "8cf22o379ziez932kkzoi1d8q",
+            "homeContestantName": "Braunschweiger TSV Eintracht 1895",
+            "awayContestantName": "Düsseldorfer TuS Fortuna 1895"
+          },
+          {
+            "id": "c27g575ufvjj1g13oei4izdgp",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "a8d2gb2nag8fy0itbuxmcibh2",
+            "awayContestantId": "6k5zscdm9ufw0tguvzyjlp5hq",
+            "homeContestantName": "1. FC Union Berlin",
+            "awayContestantName": "SC Freiburg"
+          },
+          {
+            "id": "c2ce6e6jcfknw21brm9vtq12h",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "884uzyf1wosc7ykji6e18gifp",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "SV Sandhausen"
+          },
+          {
+            "id": "c2fcgcdin2ruvr9ib0n9cfd9l",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "dmw05a03pgt48fnf9ikxs6i1o",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "1. FC Kaiserslautern"
+          },
+          {
+            "id": "c2hze78gjlg7cq7whpf4e4ell",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "3xcg7xikgrn2x8oa65sopb2is",
+            "awayContestantId": "eq1oq6y61xnzq88zu0cnw131z",
+            "homeContestantName": "1. FC Heidenheim 1846",
+            "awayContestantName": "VfL Bochum 1848"
+          },
+          {
+            "id": "c2kwuqoucsg91mqer54022prd",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "1e25o4gxxxnibjh9lgr9ykdfe",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "TSV 1860 München"
+          },
+          {
+            "id": "c2ni1omtc81iecy8dtl6ekc89",
+            "coverageLevel": "13",
+            "date": "2016-05-15Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "1i4jphpy8mkxvkx3e3n6s4mm4",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "MSV Duisburg",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,104 @@
+{
+    "competition": {
+      "id": "722fdbecxzcq9788l6jqclzlw",
+      "name": "Premier League",
+      "lastUpdated": "2020-11-11T09:03:40Z"
+    },
+    "tournamentCalendar": {
+      "id": "8g80ydy1enmztpyanmadpofoq",
+      "name":"2020/2021",
+      "startDate":"2020-09-12Z",
+      "endDate":"2021-05-23Z",
+      "lastUpdated": "2020-09-04T11:01:36Z"
+    },
+    "matchDate": [
+      {
+        "date": "2020-09-12Z",
+        "numberOfGames": "4",
+        "match": [
+          {
+            "id": "match-pl-0000000000000001",
+            "coverageLevel": "13",
+            "date": "2020-09-12Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "exxxxxxxxxxxxxxxx5",
+            "awayContestantId": "4dsgumo7d4zupm2ugsvm4zm4d",
+            "homeContestantName": "Fulham",
+            "awayContestantName": "Arsenal"
+          },
+          {
+            "id": "match-pl-0000000000000002",
+            "coverageLevel": "13",
+            "date": "2020-09-12Z",
+            "time": "16:00:00Z",
+            "homeContestantId": "1c8m2ko0wxq1asfkuykurdr0y",
+            "awayContestantId": "d5ydtvt96bv7fq04yqm2w2632",
+            "homeContestantName": "Crystal Palace",
+            "awayContestantName": "Southampton"
+          },
+          {
+            "id": "match-pl-0000000000000003",
+            "coverageLevel": "13",
+            "date": "2020-09-12Z",
+            "time": "18:15:00Z",
+            "homeContestantId": "c8h9bw1l82s06h77xxrelzhur",
+            "awayContestantId": "exxxxxxxxxxxxxxxx4",
+            "homeContestantName": "Liverpool",
+            "awayContestantName": "Leeds United"
+          },
+          {
+            "id": "match-pl-0000000000000004",
+            "coverageLevel": "13",
+            "date": "2020-09-12Z",
+            "time": "21:00:00Z",
+            "homeContestantId": "4txjdaqveermfryvbfrr4taf7",
+            "awayContestantId": "7vn2i2kd35zuetw6b38gw9jsz",
+            "homeContestantName": "Westham United",
+            "awayContestantName": "Newcastle United"
+          }
+        ]
+      },
+      {
+        "date": "2020-09-13Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "match-pl-0000000000000005",
+            "coverageLevel": "13",
+            "date": "2020-09-13",
+            "time": "11:00:00Z",
+            "homeContestantId": "9dlxuym0eab00j9ggrdr87soj",
+            "awayContestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "homeContestantName": "SpVgg Greuther Fürth",
+            "awayContestantName": "Karlsruher SC"
+          },
+          {
+            "id": "match-pl-0000000000000006",
+            "coverageLevel": "13",
+            "date": "2015-07-25Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "85jtaw5dcxxx1yp8te6axh3p8",
+            "awayContestantId": "bdlavlqj0dshxnepyfanzwu47",
+            "homeContestantName": "FC St. Pauli",
+            "awayContestantName": "DSC Arminia Bielefeld"
+          }
+        ]  
+      },
+      {
+        "date": "2020-09-14Z",
+        "numberOfGames": "2",
+        "match": [
+          {
+            "id": "bbd4fb8xs4jcsxcfc9elnrlk9",
+            "coverageLevel": "13",
+            "date": "2015-07-25Z",
+            "time": "13:30:00Z",
+            "homeContestantId": "153hz30hibmoywbut7io44m8b",
+            "awayContestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+            "homeContestantName": "FSV Frankfurt",
+            "awayContestantName": "Rasen Ballsport Leipzig"
+          }
+        ]
+      }
+    ]
+}
