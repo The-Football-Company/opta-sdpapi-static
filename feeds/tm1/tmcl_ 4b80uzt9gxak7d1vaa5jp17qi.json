@@ -1,0 +1,236 @@
+{
+    "contestant": [
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx01",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "officialName": "AC Milan",
+        "code": "MIL",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx02",
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "officialName": "AC Sassuolo",
+        "code": "SAS",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx03",
+        "name": "Napoli",
+        "shortName": "Napoli",
+        "officialName": "Napoli",
+        "code": "NAP",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx04",
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "officialName": "AS Roma",
+        "code": "NAP",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx05",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "officialName": "Juventus",
+        "code": "JUV",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx06",
+        "name": "Atalanta",
+        "shortName": "Atalanta",
+        "officialName": "Atalanta",
+        "code": "ATA",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx07",
+        "name": "Internayionale",
+        "shortName": "Inter",
+        "officialName": "Internazionale",
+        "code": "INT",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx08",
+        "name": "Hellas Verona",
+        "shortName": "Verona",
+        "officialName": "Hellas Verona",
+        "code": "VER",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx09",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "officialName": "Lazio",
+        "code": "LAZ",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx09",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "officialName": "Lazio",
+        "code": "LAZ",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx10",
+        "name": "Sampdoria",
+        "shortName": "Sampdoria",
+        "officialName": "Sampdoria",
+        "code": "SAM",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx11",
+        "name": "Cagliari",
+        "shortName": "Cagliari",
+        "officialName": "Cagliari",
+        "code": "CAG",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx12",
+        "name": "Fiorentina",
+        "shortName": "Fiorentina",
+        "officialName": "Fiorentina",
+        "code": "FIO",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx13",
+        "name": "Spezia",
+        "shortName": "Spezia",
+        "officialName": "Spezia",
+        "code": "SPE",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx14",
+        "name": "Bologna",
+        "shortName": "Bologna",
+        "officialName": "Bologna",
+        "code": "BOL",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx15",
+        "name": "Parma",
+        "shortName": "Parma",
+        "officialName": "Parma",
+        "code": "PAR",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx16",
+        "name": "Benvento",
+        "shortName": "Benvento",
+        "officialName": "Benvento",
+        "code": "BEN",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx17",
+        "name": "Torino",
+        "shortName": "Torino",
+        "officialName": "Torino",
+        "code": "TOR",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx18",
+        "name": "Genoa",
+        "shortName": "Genoa",
+        "officialName": "Genoa",
+        "code": "GEN",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx19",
+        "name": "Udinese",
+        "shortName": "Udinese",
+        "officialName": "Udinese",
+        "code": "UDI",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      },
+      {
+        "id": "itXxxxxxxxxxxxxxxxxxx20",
+        "name": "Crotone",
+        "shortName": "Crotone",
+        "officialName": "Crotone",
+        "code": "CRT",
+        "teamType": "default",
+        "type": "club",
+        "lastUpdated": "2019-11-18T03:37:09Z",
+        "countryId": "25f2cmb2r8mk5rj92tzer6kvv"
+      }
+    ],
+    "lastUpdated": "2020-03-04T22:39:46Z"
+}
