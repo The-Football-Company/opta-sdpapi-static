@@ -6,7 +6,7 @@
 
 ### MA0 Feed
 
-### MA1 Feed
+### MA1 Feed (Fixtures and results)
 
 ### TM1 Feed (Teams)
 
