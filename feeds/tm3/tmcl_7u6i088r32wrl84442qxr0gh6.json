@@ -49,7 +49,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2s68xkubqil65malqkbktzc2d",
@@ -62,7 +62,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3tkiibyhx6pzep3u3amnj7hsl",
@@ -75,7 +75,7 @@
             "type": "player",
             "placeOfBirth": "Kedzierzyn-Kozle",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4tev0kk0om8cr1xbwpt8bozit",
@@ -88,7 +88,7 @@
             "type": "player",
             "placeOfBirth": "Potsdam",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "50qhvilv3a62obuq6hl2svis5",
@@ -126,7 +126,7 @@
             "type": "player",
             "placeOfBirth": "Lichtenfels",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5vgs10pyw2112mna9c9g91zv9",
@@ -138,7 +138,7 @@
             "position": "Goalkeeper",
             "type": "player",
             "shirtNumber": 39,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6kmp65q2oddifr9syrgl3uml1",
@@ -151,7 +151,7 @@
             "type": "player",
             "placeOfBirth": "Wuppertal",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7dlv4c3c2essk4gs38oymdqdx",
@@ -163,7 +163,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7p3wqcwzd2d6a2pc6e0o43il1",
@@ -188,7 +188,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "92g37gxlaeh36s1z4c2dfpal1",
@@ -213,7 +213,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "98glpci54ztzmd3yn1kttlvpx",
@@ -275,7 +275,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 37,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "afhfa72pk544irubxdpmph87p",
@@ -301,7 +301,7 @@
             "type": "player",
             "placeOfBirth": "Ostercappeln",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bo0rborpna3wvglqn6gcv8q1h",
@@ -314,7 +314,7 @@
             "type": "player",
             "placeOfBirth": "Bottrop",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c8520lgmypwzrn4u9lml4y4t1",
@@ -327,7 +327,7 @@
             "type": "player",
             "placeOfBirth": "Homburg",
             "shirtNumber": 32,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cptdgayutgb0j1hgnf63674k5",
@@ -340,7 +340,7 @@
             "type": "player",
             "placeOfBirth": "Gelsenkirchen",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d2xk1bddm3vxxjvdfehhizaad",
@@ -362,7 +362,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e7if3ma2jblaurrokcxadk0k5",
@@ -375,7 +375,7 @@
             "type": "player",
             "placeOfBirth": "München",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ezsqr7bc70n69t97uvdsxvsut",
@@ -414,7 +414,7 @@
             "type": "player",
             "placeOfBirth": "Oettingen",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -443,7 +443,7 @@
             "type": "player",
             "placeOfBirth": "Bagsværd",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "21vfv10e7fh6b2xtcu55ihn11",
@@ -482,7 +482,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "38knnji3m4qg6pqohph35n74l",
@@ -507,7 +507,7 @@
             "position": "Unknown",
             "type": "assistant coach",
             "placeOfBirth": "Gladbeck",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3u05uuu1hxkeg8tczbyu0hp0p",
@@ -520,7 +520,7 @@
             "type": "player",
             "placeOfBirth": "Wiesbaden",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4in9eb4sw3h3k4ng5wn3q5vit",
@@ -533,7 +533,7 @@
             "type": "player",
             "placeOfBirth": "Pforzheim",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4lcyjhvtwieshr4r3a6104qtx",
@@ -585,7 +585,7 @@
             "type": "player",
             "placeOfBirth": "Ulm",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5obbjyu0duib9ogusbv9ljjhm",
@@ -623,7 +623,7 @@
             "type": "player",
             "placeOfBirth": "Fulda",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7lohomjw8xbl5eymcqhrtytw5",
@@ -648,7 +648,7 @@
             "position": "Unknown",
             "type": "assistant coach",
             "placeOfBirth": "Wien",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9bqv99e39z86mn7dq3wnyt90p",
@@ -686,7 +686,7 @@
             "type": "player",
             "placeOfBirth": "Bocholt",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a5bkiy2acihib9s4gbj31og5x",
@@ -712,7 +712,7 @@
             "type": "player",
             "placeOfBirth": "Grasse",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "adsjf6rcdn086dp50b50fd785",
@@ -725,7 +725,7 @@
             "type": "player",
             "placeOfBirth": "Schweinfurt",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "asfpsii2sb9y5sz0ck58lpmtx",
@@ -736,7 +736,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Köln",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b4mjy8dua9w3zuaocw5j7z4k5",
@@ -749,7 +749,7 @@
             "type": "player",
             "placeOfBirth": "Istimira",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bmrdtenqr84jt4gmw6i7wez11",
@@ -762,7 +762,7 @@
             "type": "player",
             "placeOfBirth": "Arles",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "brs96wp9u2t10tsqfdwcyhnth",
@@ -775,7 +775,7 @@
             "type": "player",
             "placeOfBirth": "Braunschweig",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ca6gmxhfh2ekbihas03o2mz9",
@@ -785,7 +785,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cq3g65c9slb3c9s3x9moi0t05",
@@ -798,7 +798,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dap90iu28zqwhogre5hi0tkgl",
@@ -811,7 +811,7 @@
             "type": "player",
             "placeOfBirth": "Kobenhavn",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "di0uw1d4sz4pa46nol4mb8yqd",
@@ -824,7 +824,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "elg48pp31idnm3tuykhyxa8yd",
@@ -850,7 +850,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "enmqnigalim96u844806ekyne",
@@ -862,7 +862,7 @@
             "position": "Unknown",
             "type": "assistant coach",
             "placeOfBirth": "Köln",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "eqg4ww9t11k88fi08hg611n85",
@@ -875,7 +875,7 @@
             "type": "player",
             "placeOfBirth": "Schwerte",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -916,7 +916,7 @@
             "type": "player",
             "placeOfBirth": "Achim",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "27sro9msvx0hdughcgf3oz179",
@@ -929,7 +929,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 12,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2nrkoyk72b7zd62cknp8ytln9",
@@ -955,7 +955,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "30df1jqn4zw2e5xzlv25nejf9",
@@ -968,7 +968,7 @@
             "type": "player",
             "placeOfBirth": "Troisdorf",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "35y7gbs949fgivw9bv3c19brp",
@@ -994,7 +994,7 @@
             "type": "player",
             "placeOfBirth": "Eberbach",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "48ach2a12mjvnvgk9uj5mea51",
@@ -1007,7 +1007,7 @@
             "type": "player",
             "placeOfBirth": "Kumasi",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "492xymfeeamtb7ovbzs5q9lud",
@@ -1020,7 +1020,7 @@
             "type": "player",
             "placeOfBirth": "Kerpen",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6b7p3ncup75mpop91n0u1mw2d",
@@ -1033,7 +1033,7 @@
             "type": "player",
             "placeOfBirth": "Ibbenbüren",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6eglj4s7cs2733ws9irh5ve5m",
@@ -1046,7 +1046,7 @@
             "type": "player",
             "placeOfBirth": "Schönebeck",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "71h4rx7893dz4aw3lfoz7h05",
@@ -1059,7 +1059,7 @@
             "type": "player",
             "placeOfBirth": "Tupković",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7q9uc9ry5h0flpr05pqbnpzv9",
@@ -1070,7 +1070,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Rochlitz",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7whh84acryffu30zznb8t425l",
@@ -1082,7 +1082,7 @@
             "position": "Goalkeeper",
             "type": "player",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "81ympmxkho40dd0b2wf1oh61h",
@@ -1095,7 +1095,7 @@
             "type": "player",
             "placeOfBirth": "Frankfurt am Main",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8n3z8ce8t9ohucc0gihhuu0o9",
@@ -1108,7 +1108,7 @@
             "type": "player",
             "placeOfBirth": "Salzwedel",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8o0w83cbebfs3x3quiq3hsb85",
@@ -1121,7 +1121,7 @@
             "type": "player",
             "placeOfBirth": "Bad Frankenhausen",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a71wygxax96wkt81waagp2itx",
@@ -1134,7 +1134,7 @@
             "type": "player",
             "placeOfBirth": "Kaiserslautern",
             "shirtNumber": 29,
-            "active": "yes"
+            "active": "no"
           },
           {
             "id": "ad8dhn4mejkx6htyqkek9yh91",
@@ -1147,7 +1147,7 @@
             "type": "player",
             "placeOfBirth": "Tbilisi",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "au2zf4kvtvdnsmt2jkw5ghql1",
@@ -1173,7 +1173,7 @@
             "type": "player",
             "placeOfBirth": "Laupheim",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bkuc51lwq7t52rfx4clgwbiz9",
@@ -1186,7 +1186,7 @@
             "type": "player",
             "placeOfBirth": "Frankfurt",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bts2d90ryigmzfiue06y6p8et",
@@ -1199,7 +1199,7 @@
             "type": "player",
             "placeOfBirth": "Talence",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cgw1yf7es0b38xbvn59geqq51",
@@ -1212,7 +1212,7 @@
             "type": "player",
             "placeOfBirth": "Wetzlar",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cljppnrhvz3k98f1x2ljtvufp",
@@ -1225,7 +1225,7 @@
             "type": "player",
             "placeOfBirth": "Münchberg",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "clpx0g1t1r3386fl6zhmuju1h",
@@ -1238,7 +1238,7 @@
             "type": "player",
             "placeOfBirth": "Nancy",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cpzpl942fgscox3xu16e8d0ph",
@@ -1251,7 +1251,7 @@
             "type": "player",
             "placeOfBirth": "Pancevo",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cz5ncomfsm2x21y6icagjz7px",
@@ -1264,7 +1264,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d9jj0525pm3nu9vqewtpo2rpx",
@@ -1277,7 +1277,7 @@
             "type": "player",
             "placeOfBirth": "Berchtesgaden",
             "shirtNumber": 37,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dw69wkj77bus0u139hku2kyc5",
@@ -1290,7 +1290,7 @@
             "type": "player",
             "placeOfBirth": "Stolberg",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e0jdg5vhg3l3vdgyecnwic4ph",
@@ -1303,7 +1303,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e9nr812rgxe34x1z44m6fo7v9",
@@ -1316,7 +1316,7 @@
             "type": "player",
             "placeOfBirth": "Mühlhausen",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "en4giyos6bxb3zldoy70q295h",
@@ -1327,7 +1327,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Coesfeld",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "i1gab6jnrk3ro2sofzjzjcgl",
@@ -1338,7 +1338,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "position": "Midfielder",
             "type": "assistant coach",
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -1367,7 +1367,7 @@
             "type": "player",
             "placeOfBirth": "Lisboa",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "39iinvl39hhvuf2uh65qmril1",
@@ -1379,7 +1379,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3qy1qlzezgfkxeom5n1r9h13p",
@@ -1404,7 +1404,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4shav3yvfjovlnnzxr50qpyhh",
@@ -1417,7 +1417,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4v3o4yemj0frzgkxez1zg51w5",
@@ -1430,7 +1430,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "52t6t7cdsr0fjs9ukmwo9y7rp",
@@ -1456,7 +1456,7 @@
             "type": "player",
             "placeOfBirth": "Heidelberg",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "57c808184l80uuuv7z3flcu6t",
@@ -1482,7 +1482,7 @@
             "type": "player",
             "placeOfBirth": "Trollhättan",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5ncb1tgau26wl8uif5l50v2z9",
@@ -1495,7 +1495,7 @@
             "type": "player",
             "placeOfBirth": "Bad Driburg",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "61xxo4zsk6hby0swa756l3wlx",
@@ -1508,7 +1508,7 @@
             "type": "player",
             "placeOfBirth": "Olsztyn",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "68dehpbkmgb0d9uzatpwftped",
@@ -1521,7 +1521,7 @@
             "type": "player",
             "placeOfBirth": "Ängelholm",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6sdv4s8oz558wfhx72vwlpvu2",
@@ -1534,7 +1534,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7mmrceswo61bbytuxcm7xk251",
@@ -1547,7 +1547,7 @@
             "type": "player",
             "placeOfBirth": "Soest",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7pxarimc98tvv7lxu6m71kxqt",
@@ -1560,7 +1560,7 @@
             "type": "player",
             "placeOfBirth": "München",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7snb6fw0mbkrlgxgcbuqaq51",
@@ -1573,7 +1573,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7tjguurexixlasgd9vi47auzu",
@@ -1586,7 +1586,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7zi1ayoo5wxc7dph6prqug251",
@@ -1599,7 +1599,7 @@
             "type": "player",
             "placeOfBirth": "Lebach",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8czesxhh2bedy0ukqb95rk82d",
@@ -1612,7 +1612,7 @@
             "type": "player",
             "placeOfBirth": "Wilhelmshaven",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "909rlawec7pbxo40e04yu1ec5",
@@ -1637,7 +1637,7 @@
             "type": "player",
             "placeOfBirth": "Barcelona",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9nml9nps4wa3zd9jfix7pju8l",
@@ -1650,7 +1650,7 @@
             "type": "player",
             "placeOfBirth": "Zell am See",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b7kcpzrjr7vbd4xmzrpogxwwl",
@@ -1699,7 +1699,7 @@
             "type": "player",
             "placeOfBirth": "Kassel",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cl6720rdjeubt0bc3su0qg3qh",
@@ -1724,7 +1724,7 @@
             "type": "player",
             "placeOfBirth": "Wels",
             "shirtNumber": 32,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "djhg66gparryrj01ayh56slat",
@@ -1737,7 +1737,7 @@
             "type": "player",
             "placeOfBirth": "Greifswald",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e7f0fbn4y7hljmwgt3xnaxsk5",
@@ -1790,7 +1790,7 @@
             "type": "player",
             "placeOfBirth": "Offenbach am Main",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "1psr9ra8k9j4r94p1xixagzbp",
@@ -1816,7 +1816,7 @@
             "type": "player",
             "placeOfBirth": "Bielefeld",
             "shirtNumber": 32,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3i4z8v4ezq43bj8ncg4k8gkph",
@@ -1829,7 +1829,7 @@
             "type": "player",
             "placeOfBirth": "Flensburg",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3s8fjv8lzcapfmcggydr2fhlh",
@@ -1855,7 +1855,7 @@
             "type": "player",
             "placeOfBirth": "Bielefeld",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4f9g5kgkbucwtxm7srpvrvxzp",
@@ -1868,7 +1868,7 @@
             "type": "player",
             "placeOfBirth": "Bamberg",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4t2xl71pspvh82ffxy5vobf11",
@@ -1919,7 +1919,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5tzq2cktt3i5lxsc99isvz8id",
@@ -1932,7 +1932,7 @@
             "type": "player",
             "placeOfBirth": "Düren",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6vuceid8ie3psyhgaqeyo7xed",
@@ -1945,7 +1945,7 @@
             "type": "player",
             "placeOfBirth": "Schloß Holte",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "72nytjrxqj63mvd9w9228o639",
@@ -1984,7 +1984,7 @@
             "type": "player",
             "placeOfBirth": "Friedrichroda",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "884kt9da2rowpgtmulv18e3f9",
@@ -1994,7 +1994,7 @@
             "nationality": "Luxembourg",
             "nationalityId": "f2r46apchse9eg3n9c9pupfs",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8lnsd1m2p79oe9dq4x409ni6t",
@@ -2007,7 +2007,7 @@
             "type": "player",
             "placeOfBirth": "Wertheim",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8sf4e56h28v5lx03aw396o445",
@@ -2057,7 +2057,7 @@
             "type": "player",
             "placeOfBirth": "Accra",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "brhnj719mlt3f7lp9jmxq7etx",
@@ -2069,7 +2069,7 @@
             "position": "Defender",
             "type": "assistant coach",
             "placeOfBirth": "Dessau",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c3zqw87zdq7jxqwkdob2g552h",
@@ -2082,7 +2082,7 @@
             "type": "player",
             "placeOfBirth": "Bielefeld",
             "shirtNumber": 40,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c4w6l0ha9pvwljyh3aejqz3yt",
@@ -2095,7 +2095,7 @@
             "type": "player",
             "placeOfBirth": "Troyes",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cfysw0lrk92ogv72c0jh3p6mt",
@@ -2131,7 +2131,7 @@
             "type": "player",
             "placeOfBirth": "Weimar",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "f3xm12deg7xf3g2n3yk11npat",
@@ -2170,7 +2170,7 @@
             "type": "player",
             "placeOfBirth": "Minden",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "rspc37mv2ppgtkmuwz481k9h",
@@ -2210,7 +2210,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2jvmo5166d3xl51st4tewxeqx",
@@ -2261,7 +2261,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4w6p4ii0slpoxwghe00g78rmd",
@@ -2287,7 +2287,7 @@
             "type": "player",
             "placeOfBirth": "Erlenbach am Main",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "56e76dk2fd95o2n7e98tpjg0l",
@@ -2313,7 +2313,7 @@
             "type": "player",
             "placeOfBirth": "Bad Schlema",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "657v2eqwzvciea4r0buicgo6i",
@@ -2324,7 +2324,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Halle an der Saale",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6nfe6df1d084z1o5ycbxguwnp",
@@ -2349,7 +2349,7 @@
             "position": "Goalkeeper",
             "type": "player",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "778pjwtaf4v2ytk8fef3hdtqt",
@@ -2388,7 +2388,7 @@
             "type": "player",
             "placeOfBirth": "Wien",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7xxmckm5rqa1vo7id2dd97kkp",
@@ -2401,7 +2401,7 @@
             "type": "player",
             "placeOfBirth": "Augsburg",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "82j8xoef40xs7841avelgafsa",
@@ -2414,7 +2414,7 @@
             "type": "player",
             "placeOfBirth": "Bad Schlema",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8a1yv75rh3btnuunqdo3l48gl",
@@ -2427,7 +2427,7 @@
             "type": "player",
             "placeOfBirth": "Hattingen",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8krbgixgtgze6oxwctdqitp1",
@@ -2453,7 +2453,7 @@
             "type": "player",
             "placeOfBirth": "Gjilan",
             "shirtNumber": 40,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8sm94d0n94ht53s2ra62x9t5h",
@@ -2466,7 +2466,7 @@
             "type": "player",
             "placeOfBirth": "Wesel",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "98pcv4frjs07wa66kmrf4zhbe",
@@ -2478,7 +2478,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 39,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9dgvxledd4i8ow4iqixhe9bkl",
@@ -2503,7 +2503,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9novchy4dacy3irslbeyne2tx",
@@ -2579,7 +2579,7 @@
             "type": "player",
             "placeOfBirth": "Strausberg",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bbof9h692j4vpz2v62a1hpwb9",
@@ -2592,7 +2592,7 @@
             "type": "player",
             "placeOfBirth": "Bremen",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bnbxzr09vcjvl6uxh2zpafb9x",
@@ -2605,7 +2605,7 @@
             "type": "player",
             "placeOfBirth": "Düsseldorf",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c85ejgoiyiuc40e2yosfhi1g5",
@@ -2618,7 +2618,7 @@
             "type": "player",
             "placeOfBirth": "Halle",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d134t07wdzhrkb1mwmq1lxln9",
@@ -2631,7 +2631,7 @@
             "type": "player",
             "placeOfBirth": "Mostar",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d5amvtofla1qx0a2f4itvxa6t",
@@ -2656,7 +2656,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ialiww8nu46e05wtme6juimt",
@@ -2710,7 +2710,7 @@
             "position": "Defender",
             "type": "assistant coach",
             "placeOfBirth": "Rijeka",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "24vuq3yztivgurgs6e7i8pu51",
@@ -2721,7 +2721,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Stuttgart",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2hrvu72syd3vyic6ylygxbyl1",
@@ -2734,7 +2734,7 @@
             "type": "player",
             "placeOfBirth": "Buchen",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3i85rbmn6qd5x4y29hk78rmy1",
@@ -2773,7 +2773,7 @@
             "type": "player",
             "placeOfBirth": "Ingolstadt",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4lc1h0q6lbo2ls9e9owywl1w5",
@@ -2799,7 +2799,7 @@
             "type": "player",
             "placeOfBirth": "Schwabach",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4qw8bkfdo16mvnby3jm9a1045",
@@ -2812,7 +2812,7 @@
             "type": "player",
             "placeOfBirth": "São José Rio Preto",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "53skvobwfsew336cuv94sk8np",
@@ -2825,7 +2825,7 @@
             "type": "player",
             "placeOfBirth": "Villach",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "55hbxiujkxgd72h9i67xpo0d1",
@@ -2836,7 +2836,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Ochsenfurt",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "67v6i95r4489a5hnuunef0s0l",
@@ -2862,7 +2862,7 @@
             "type": "player",
             "placeOfBirth": "Be'er Sheva",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6wxwe3gba9cfm008udiydc0yd",
@@ -2875,7 +2875,7 @@
             "type": "player",
             "placeOfBirth": "München",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "76h7b6dhpyotolq68f84lqifp",
@@ -2888,7 +2888,7 @@
             "type": "player",
             "placeOfBirth": "Ourinhos",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7grt93ir5y4heb1iooo6p86ol",
@@ -2926,7 +2926,7 @@
             "type": "player",
             "placeOfBirth": "Neunkirchen",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "92g37gxlaeh36s1z4c2dfpal1",
@@ -2952,7 +2952,7 @@
             "type": "player",
             "placeOfBirth": "Tulln",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "99s6ienxmr3fhtn9o1i8y7zoq",
@@ -2963,7 +2963,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "position": "Midfielder",
             "type": "player",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9uc54rlxmahbfppv97zi81yhh",
@@ -3002,7 +3002,7 @@
             "type": "player",
             "placeOfBirth": "Hanau",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "anea4ds0uilpws3yh0fhfudw5",
@@ -3013,7 +3013,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Oberhausen",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b7juazg2d0ttcyxeznswh7b2t",
@@ -3026,7 +3026,7 @@
             "type": "player",
             "placeOfBirth": "Gießen",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b8x2mjwmxwgb5jx7phs6j2y8l",
@@ -3039,7 +3039,7 @@
             "type": "player",
             "placeOfBirth": "Bischofsmais",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ba8mqps3ub176h0j6b6g1yymt",
@@ -3052,7 +3052,7 @@
             "type": "player",
             "placeOfBirth": "Asunción",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bnl6q4mr3ncwyc2kpk4aglbdh",
@@ -3065,7 +3065,7 @@
             "type": "player",
             "placeOfBirth": "Zonguldak",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bu3iqwznwjvf7n05esj3hoet",
@@ -3078,7 +3078,7 @@
             "type": "player",
             "placeOfBirth": "Recklinghausen",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bu5jnoodujuwjpvoggap2jnpx",
@@ -3091,7 +3091,7 @@
             "type": "player",
             "placeOfBirth": "Benin City",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cchwb8zoc3o6kucux9btjg1xx",
@@ -3101,7 +3101,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cipmd3k2nfv0ddic0l8go14gl",
@@ -3114,7 +3114,7 @@
             "type": "player",
             "placeOfBirth": "Willemstad",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cnoxnbq2kgvs409ni3a5sroid",
@@ -3138,7 +3138,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "München",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dn45hqclqdyujrz9kiq284us5",
@@ -3148,7 +3148,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dqtarwrqvkopmzbt2ovp2dln9",
@@ -3174,7 +3174,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "enpnulwzdxetukh80iwyazkk5",
@@ -3187,7 +3187,7 @@
             "type": "player",
             "placeOfBirth": "Gießen",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "esjre9ksg0tf222hll60mraol",
@@ -3200,7 +3200,7 @@
             "type": "player",
             "placeOfBirth": "Bochum",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -3279,7 +3279,7 @@
             "type": "player",
             "placeOfBirth": "Dortmund",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2vbts7mxn4q3qsz08hv9htuj9",
@@ -3292,7 +3292,7 @@
             "type": "player",
             "placeOfBirth": "Lübeck",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2xhylg3eruu8bcn6wxemfedw5",
@@ -3318,7 +3318,7 @@
             "type": "player",
             "placeOfBirth": "Bremerhaven",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3lj502akb99vtwed76g6asgk5",
@@ -3331,7 +3331,7 @@
             "type": "player",
             "placeOfBirth": "Weyhe",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3u410q38jpg2rpjf00sjy3mxh",
@@ -3342,7 +3342,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Gelsenkirchen",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "45263cowivz4yt52iiveigt0p",
@@ -3355,7 +3355,7 @@
             "type": "player",
             "placeOfBirth": "Seoul",
             "shirtNumber": 39,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4pz2cikblesadct85zikxpmuh",
@@ -3368,7 +3368,7 @@
             "type": "player",
             "placeOfBirth": "Tarnowskie Góry",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4tos51x2grup7hvjjhg8l621h",
@@ -3394,7 +3394,7 @@
             "type": "player",
             "placeOfBirth": "Duisburg",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "60biwkx9tw9wd4007zzn1khxx",
@@ -3407,7 +3407,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6hh1y9t572yqk7d1zegi0hm5m",
@@ -3420,7 +3420,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6m9kl83skeayju8ggr73zf4r9",
@@ -3433,7 +3433,7 @@
             "type": "player",
             "placeOfBirth": "Altötting",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6mnvxl227ig0tppljm4r3i7dh",
@@ -3459,7 +3459,7 @@
             "type": "player",
             "placeOfBirth": "Ozimek",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "70d7ep81lnb6m2flci6s8s5w5",
@@ -3496,7 +3496,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8jffosple8tudfy0wofn43sut",
@@ -3508,7 +3508,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8um4xh0ekvr4q6uti3ksld8q2",
@@ -3533,7 +3533,7 @@
             "type": "player",
             "placeOfBirth": "Buchholz",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "97vse7wzd4p4mx9hlfcod87h1",
@@ -3559,7 +3559,7 @@
             "type": "player",
             "placeOfBirth": "Waldshut-Tiengen",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9xtfkb2dzbzh6t43icksftvpx",
@@ -3572,7 +3572,7 @@
             "type": "player",
             "placeOfBirth": "Kelheim",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ar0vmlti3r6hksp23w4tpwi5l",
@@ -3584,7 +3584,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bnl6q4mr3ncwyc2kpk4aglbdh",
@@ -3610,7 +3610,7 @@
             "type": "player",
             "placeOfBirth": "Purmerend",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cdqa1j5yeh8u9ll0ijx28oyj9",
@@ -3623,7 +3623,7 @@
             "type": "player",
             "placeOfBirth": "Oslo",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "co31xuhrhxd2vypk42wblsafp",
@@ -3649,7 +3649,7 @@
             "type": "player",
             "placeOfBirth": "Heidenheim an der Brenz",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d1q9kf6e2j1t82xw36a6w3xlh",
@@ -3662,7 +3662,7 @@
             "type": "player",
             "placeOfBirth": "Berkane",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d5vc7g76ggd4tatzh314u54np",
@@ -3675,7 +3675,7 @@
             "type": "player",
             "placeOfBirth": "Marschacht",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "eek0pp1tu23qmf8zq3i90v9at",
@@ -3688,7 +3688,7 @@
             "type": "player",
             "placeOfBirth": "Düsseldorf",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "eg47sj0p2akrjzkg28wxjlwx5",
@@ -3712,7 +3712,7 @@
             "nationalityId": "6hzi5pltnz67q4la8yli9qfv6",
             "type": "coach",
             "placeOfBirth": "Venlo",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "f5ehakhenq75jumqnqzc07r2t",
@@ -3725,7 +3725,7 @@
             "type": "player",
             "placeOfBirth": "Bad Tölz",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ip62fljz9ng6sil4krcq8dm1",
@@ -3738,7 +3738,7 @@
             "type": "player",
             "placeOfBirth": "Enschede",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "yuw4a34cpasw5e4vqsg6ex1x",
@@ -3751,7 +3751,7 @@
             "type": "player",
             "placeOfBirth": "Pireas",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -3780,7 +3780,7 @@
             "type": "player",
             "placeOfBirth": "Tokyo",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2fimdz5yqtzdmpr77v25xjgtl",
@@ -3790,7 +3790,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2mhcqwpftx46hwl2r7smhog6h",
@@ -3803,7 +3803,7 @@
             "type": "player",
             "placeOfBirth": "Bad Segeberg",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3c2wqlde0kovi9hii52egaimt",
@@ -3816,7 +3816,7 @@
             "type": "player",
             "placeOfBirth": "Erkelenz",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3mp7p8tytgkbwi8itxl5mfkrt",
@@ -3840,7 +3840,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "position": "Defender",
             "type": "player",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3y2mtn05hk3yacs5xape8j561",
@@ -3879,7 +3879,7 @@
             "type": "player",
             "placeOfBirth": "Zürich",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4pzjvj5jwm7p0siz055ixe40l",
@@ -3892,7 +3892,7 @@
             "type": "player",
             "placeOfBirth": "Emmerting",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5533qiddso51uik1bscuwm6z9",
@@ -3905,7 +3905,7 @@
             "type": "player",
             "placeOfBirth": "Cabezón de la Sal",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5sitbikg9ewbj74003825iket",
@@ -3931,7 +3931,7 @@
             "type": "player",
             "placeOfBirth": "Stockholm",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7abq6h99tkzi4qumwl14dgmvp",
@@ -3942,7 +3942,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Mannheim",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7f1wx6h3x0yww5k3fuzj9llg5",
@@ -3955,7 +3955,7 @@
             "type": "player",
             "placeOfBirth": "Düren",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8m6by9jfr46ye4bug84545ihh",
@@ -3980,7 +3980,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 39,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "95uxoznu15m2xywirv43rcmol",
@@ -3993,7 +3993,7 @@
             "type": "player",
             "placeOfBirth": "Brussel",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9fcun3yregfuprnwq01iloet",
@@ -4019,7 +4019,7 @@
             "type": "player",
             "placeOfBirth": "Stuttgart",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a3v12ap10h9z3nlr9ugctix1x",
@@ -4032,7 +4032,7 @@
             "type": "player",
             "placeOfBirth": "João Pessoa",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ahhjd38eki0yws3iw1si0082x",
@@ -4058,7 +4058,7 @@
             "type": "player",
             "placeOfBirth": "Arnstein",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bibz1qxakmbflq73marmo4nop",
@@ -4084,7 +4084,7 @@
             "type": "player",
             "placeOfBirth": "Bad Segeberg",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bntvupdmnof1hzo1tfa00yfv9",
@@ -4097,7 +4097,7 @@
             "type": "player",
             "placeOfBirth": "New York",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "btz2lf5s3h6svre1o5jgmvf85",
@@ -4110,7 +4110,7 @@
             "type": "player",
             "placeOfBirth": "Kirkcaldy",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c6jnwk4yx9bbt0ph8o2b6hqi2",
@@ -4134,7 +4134,7 @@
             "type": "player",
             "placeOfBirth": "Lausanne",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dgopollb8r1h0zhcx370q8xcl",
@@ -4147,7 +4147,7 @@
             "type": "player",
             "placeOfBirth": "Katerini",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "djluxqniobcg57fu1jub6g2xh",
@@ -4160,7 +4160,7 @@
             "type": "player",
             "placeOfBirth": "Gladbeck",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dl8x6fzdexn8r0sj65vgcgq8l",
@@ -4173,7 +4173,7 @@
             "type": "player",
             "placeOfBirth": "Chuncheon",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e1jgh58b8x61eih07wlvi4s0l",
@@ -4186,7 +4186,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "esb5jfhw65o0dgbs6gwvibyeh",
@@ -4199,7 +4199,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 32,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "evlb8xoagc60qohexhegail05",
@@ -4212,7 +4212,7 @@
             "type": "player",
             "placeOfBirth": "Karlsruhe",
             "shirtNumber": 41,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "f158y9pr2meao7t30n974dgid",
@@ -4237,7 +4237,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -4265,7 +4265,7 @@
             "position": "Defender",
             "type": "player",
             "placeOfBirth": "Herne",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "1t3ye17day755v0y3k2er9kut",
@@ -4278,7 +4278,7 @@
             "type": "player",
             "placeOfBirth": "Koka",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "20g27z0cklenjg7k0ox73wyc5",
@@ -4290,7 +4290,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "280fh7f5q9lud8lk8reyu7fxm",
@@ -4302,7 +4302,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2vurjl8xvhdne12o1k8j574r9",
@@ -4315,7 +4315,7 @@
             "type": "player",
             "placeOfBirth": "Santo Domingo",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2xq38zpy89o7ntu0rrjmyepxx",
@@ -4327,7 +4327,7 @@
             "position": "Attacker",
             "type": "player",
             "placeOfBirth": "Aalen",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "43jefcgwm5bsc0m59rk8hpe51",
@@ -4339,7 +4339,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "48xe58xmo6zkf1x4p5o58dx3p",
@@ -4377,7 +4377,7 @@
             "position": "Unknown",
             "type": "assistant coach",
             "placeOfBirth": "Mannheim",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6b3yutqefgbne43yxj31gh7md",
@@ -4390,7 +4390,7 @@
             "type": "player",
             "placeOfBirth": "Fort Belvoir",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6dzx3oyd42ql69tqxqvg8mpxx",
@@ -4403,7 +4403,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "75heh0647vepncl0a1x0lbh7t",
@@ -4416,7 +4416,7 @@
             "type": "player",
             "placeOfBirth": "Kiel",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7l6y554mwgqi79qeebwnq2w2d",
@@ -4454,7 +4454,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8jildds7zfj7uk3iohmmkj3kl",
@@ -4467,7 +4467,7 @@
             "type": "player",
             "placeOfBirth": "Eckernförde",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8metzwuemi3edqhsv2pnqqbx1",
@@ -4480,7 +4480,7 @@
             "type": "player",
             "placeOfBirth": "Rüdesheim am Main",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "90223ewsz9jts4d0xgy76hknp",
@@ -4505,7 +4505,7 @@
             "type": "player",
             "placeOfBirth": "Dunajská Streda",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a4p1m3cqm6z2p1bw97s6k46ad",
@@ -4518,7 +4518,7 @@
             "type": "player",
             "placeOfBirth": "Essen",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "apdrig6xt1hxub1986s3uh1x",
@@ -4544,7 +4544,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bwqqecmqm76v5b83v1cz891p1",
@@ -4569,7 +4569,7 @@
             "type": "player",
             "placeOfBirth": "Raitenbuch",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dopaohnpfkiiql4rcemhlgqtx",
@@ -4582,7 +4582,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e2svd52zwn83w7dat9vibsgd1",
@@ -4608,7 +4608,7 @@
             "type": "player",
             "placeOfBirth": "Magdeburg",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e780cuuryoan93kdblrmbvy09",
@@ -4621,7 +4621,7 @@
             "type": "player",
             "placeOfBirth": "Essen",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "effmy99qczj7w9kb28u5y7mqd",
@@ -4647,7 +4647,7 @@
             "type": "player",
             "placeOfBirth": "Yaoundé",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "epklyppmaov5dmgvhzm3feml1",
@@ -4657,7 +4657,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "esasiq4j83g377zb8zi0bgpnt",
@@ -4683,7 +4683,7 @@
             "type": "player",
             "placeOfBirth": "Wien",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -4712,7 +4712,7 @@
             "type": "player",
             "placeOfBirth": "Duisburg",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2da3z6x82d992w2gdm1ssytat",
@@ -4725,7 +4725,7 @@
             "type": "player",
             "placeOfBirth": "Wuppertal",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2ekx0fvuf0dsat062oj430d05",
@@ -4738,7 +4738,7 @@
             "type": "player",
             "placeOfBirth": "Georgsmarienhütte",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2m7zps8hqiq6o09preuwz8frp",
@@ -4751,7 +4751,7 @@
             "type": "player",
             "placeOfBirth": "Accra",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2qpt0h8a2rqbm9yjm10k8zyeh",
@@ -4764,7 +4764,7 @@
             "type": "player",
             "placeOfBirth": "Gelsenkirchen",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "337m85qszcv2xkkc8wa4r10ph",
@@ -4790,7 +4790,7 @@
             "type": "player",
             "placeOfBirth": "Yashalta",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "45e4yvlahk0ljgxo4wht8y0ut",
@@ -4803,7 +4803,7 @@
             "type": "player",
             "placeOfBirth": "Taunusstein",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4spc7phhoaj3xeuj5a1dhd2vp",
@@ -4816,7 +4816,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4z2afchjsqgk1h5g4fqptr26t",
@@ -4829,7 +4829,7 @@
             "type": "player",
             "placeOfBirth": "Fulda",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5a4vvymm0ab6nr8bqr1xi532t",
@@ -4842,7 +4842,7 @@
             "type": "player",
             "placeOfBirth": "Engelskirchen",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5ajxob6ic5c37ti62eyptqpjp",
@@ -4855,7 +4855,7 @@
             "type": "player",
             "placeOfBirth": "Leidschendam",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5r37pnesvskh8dm8yg046g8gl",
@@ -4868,7 +4868,7 @@
             "type": "player",
             "placeOfBirth": "Odesa",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5t45dn5iphg14znij00ssr6c5",
@@ -4881,7 +4881,7 @@
             "type": "player",
             "placeOfBirth": "Gießen",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "613kkjtvfyf7mbvrqt9pcizmd",
@@ -4894,7 +4894,7 @@
             "type": "player",
             "placeOfBirth": "Tampa",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "73xm3f65xiio28lof3e4xnt91",
@@ -4906,7 +4906,7 @@
             "position": "Unknown",
             "type": "assistant coach",
             "placeOfBirth": "Zabrze",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7dtworo6ziqcreefpovhfbo8a",
@@ -4917,7 +4917,7 @@
             "nationalityId": "5a1vsxg8tbnsk65iefq1q8tlt",
             "position": "Unknown",
             "type": "assistant coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7fuug59cxfefoguy3q764yjth",
@@ -4928,7 +4928,7 @@
             "nationalityId": "5a1vsxg8tbnsk65iefq1q8tlt",
             "type": "coach",
             "placeOfBirth": "Sofia",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7jy08psklqaeltkjxzpj2mor9",
@@ -4941,7 +4941,7 @@
             "type": "player",
             "placeOfBirth": "Thedinghausen",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7mgipsmicxrsjyr1q8rubv00l",
@@ -4954,7 +4954,7 @@
             "type": "player",
             "placeOfBirth": "Leinefelde",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7uadv7hp2ce63emfrieifg89h",
@@ -4967,7 +4967,7 @@
             "type": "player",
             "placeOfBirth": "Kittsee",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8nlmkqm51ey8zi1xtat0ef4yd",
@@ -4980,7 +4980,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9546j0b4hdjooo9v0ew7bgudx",
@@ -4993,7 +4993,7 @@
             "type": "player",
             "placeOfBirth": "M'saken",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "95ryh79yvae3qbb5e3rfi7rh1",
@@ -5004,7 +5004,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Bad Dürkheim",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9chrfk6v4c4bj7qoll8smtqeh",
@@ -5016,7 +5016,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a51uwp4qcrr4rodslzst4iok5",
@@ -5028,7 +5028,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "am8d8igp5ecz2p63v05obvb2t",
@@ -5041,7 +5041,7 @@
             "type": "player",
             "placeOfBirth": "Paderborn",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ayiozp7y0nh0omgjn7vfkgvrp",
@@ -5054,7 +5054,7 @@
             "type": "player",
             "placeOfBirth": "Wolfsburg",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b5mloitecdcz7jfdgoclwrhed",
@@ -5067,7 +5067,7 @@
             "type": "player",
             "placeOfBirth": "Oslo",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bfrq8vnasfa6upvvvsnow53sa",
@@ -5093,7 +5093,7 @@
             "type": "player",
             "placeOfBirth": "Recklinghausen",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bxajmirdet0d00gl3hwsan26t",
@@ -5119,7 +5119,7 @@
             "type": "player",
             "placeOfBirth": "Porto Seguro",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "lh1hxtyg9f5yewmv6eruh2i1",
@@ -5171,7 +5171,7 @@
             "type": "player",
             "placeOfBirth": "Dakar",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3id34xs56zxpjydlxeum8k7v9",
@@ -5210,7 +5210,7 @@
             "type": "player",
             "placeOfBirth": "Freiburg",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4ootwph50u1zfkcrt99oxxn85",
@@ -5236,7 +5236,7 @@
             "type": "player",
             "placeOfBirth": "Accra",
             "shirtNumber": 37,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5lyoanan9p2shpwbz2k7hl0wl",
@@ -5249,7 +5249,7 @@
             "type": "player",
             "placeOfBirth": "Wuppertal",
             "shirtNumber": 12,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5pnfmmq8b8jxmp1qnf82d8out",
@@ -5288,7 +5288,7 @@
             "type": "player",
             "placeOfBirth": "Colorado Springs",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6p35ea83hoaef2w68sllmwpud",
@@ -5337,7 +5337,7 @@
             "type": "player",
             "placeOfBirth": "Bremen",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7m7f1n8ohhdh719rb9egliew9",
@@ -5348,7 +5348,7 @@
             "nationalityId": "37hlakrwxyuzovaeoo4sezusp",
             "position": "Midfielder",
             "type": "player",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7z332kzmnfy3iuqzpvvdadgwl",
@@ -5361,7 +5361,7 @@
             "type": "player",
             "placeOfBirth": "Essen",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8f4r3w9prysn7qu4ligspt4gl",
@@ -5374,7 +5374,7 @@
             "type": "player",
             "placeOfBirth": "Darmstadt",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8oe7f54o4t48nevtmfgthi311",
@@ -5387,7 +5387,7 @@
             "type": "player",
             "placeOfBirth": "Herne",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8twji6k3ii51ie8r2hryha86h",
@@ -5412,7 +5412,7 @@
             "type": "player",
             "placeOfBirth": "Sunyani",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9milvrqjoi3be60ez3wpzciqx",
@@ -5425,7 +5425,7 @@
             "type": "player",
             "placeOfBirth": "Freiburg",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9o83lsxfn8bdtljxekx42xq6t",
@@ -5438,7 +5438,7 @@
             "type": "player",
             "placeOfBirth": "Essen",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9u30xoqj9hu7fa1avdycptnf9",
@@ -5451,7 +5451,7 @@
             "type": "player",
             "placeOfBirth": "Tiranë",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9wrcxvynfx8jto2zheptrv015",
@@ -5474,7 +5474,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "position": "Midfielder",
             "type": "player",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "aq85zustfcnr0a1d5rfy50e6t",
@@ -5486,7 +5486,7 @@
             "position": "Midfielder",
             "type": "player",
             "placeOfBirth": "Münster",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "btlqwjk332tzpt41vwf1webbp",
@@ -5498,7 +5498,7 @@
             "position": "Goalkeeper",
             "type": "player",
             "placeOfBirth": "Salzkotten",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "byab0p1k46q76he4qdotdadp1",
@@ -5511,7 +5511,7 @@
             "type": "player",
             "placeOfBirth": "Braunschweig",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "chfi7x23gvf8cozzneoyrsa1h",
@@ -5524,7 +5524,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "d42ufdmcu1him7qrr58zv8aju",
@@ -5536,7 +5536,7 @@
             "position": "Attacker",
             "type": "player",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dg6vrx8k026l7f8ytbu1xxj9x",
@@ -5549,7 +5549,7 @@
             "type": "player",
             "placeOfBirth": "Braunschweig",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dma96yvkivjeq9uaxu7799kgl",
@@ -5562,7 +5562,7 @@
             "type": "player",
             "placeOfBirth": "Ludwigshafen am Rhein",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "do9g7p0jtcfngmvq1uzy2tqdx",
@@ -5617,7 +5617,7 @@
             "type": "player",
             "placeOfBirth": "Ostfildern",
             "shirtNumber": 40,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "1jb4j2gm5t408dbo40bz80ru1",
@@ -5642,7 +5642,7 @@
             "type": "player",
             "placeOfBirth": "Düsseldorf",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "25cjoefo09k7wt2y77tr3php1",
@@ -5655,7 +5655,7 @@
             "type": "player",
             "placeOfBirth": "Bonn",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2r92gy8rbab9ea9f0mwhltgmi",
@@ -5694,7 +5694,7 @@
             "type": "player",
             "placeOfBirth": "Freiberg",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3t7v7kb3pffj4wzlolj2esm39",
@@ -5707,7 +5707,7 @@
             "type": "player",
             "placeOfBirth": "Saalfelden",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3u3gjwv3jzdgsnf89bvbj1p79",
@@ -5720,7 +5720,7 @@
             "type": "player",
             "placeOfBirth": "Norrköping",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4h2bwry951aawe5pvvmd9hyad",
@@ -5733,7 +5733,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4mmgzjvplsgn7dobosg1wcjc9",
@@ -5746,7 +5746,7 @@
             "type": "player",
             "placeOfBirth": "Nordenham",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4mvw2lagohjy28vxr7du2q162",
@@ -5771,7 +5771,7 @@
             "type": "player",
             "placeOfBirth": "Schrecksbach",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5d7o7fdtibrjwvf8szmol32l1",
@@ -5782,7 +5782,7 @@
             "nationalityId": "49ih1pwv3ahshdf8uzrimi54c",
             "type": "coach",
             "placeOfBirth": "Esslingen am Neckar",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5kghds186740jygx97bihh6mt",
@@ -5795,7 +5795,7 @@
             "type": "player",
             "placeOfBirth": "Lillerød",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5pnzcqq2qdeb5sxxc2awuitp1",
@@ -5818,7 +5818,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "position": "Unknown",
             "type": "assistant coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5x4uborwq8oeylzjmzj7sf9at",
@@ -5844,7 +5844,7 @@
             "type": "player",
             "placeOfBirth": "Hamm",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6jofba2knexkjhcwr3pf6jxzp",
@@ -5857,7 +5857,7 @@
             "type": "player",
             "placeOfBirth": "München",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6las8etwx9c9kdkcip8gz26wa",
@@ -5883,7 +5883,7 @@
             "type": "player",
             "placeOfBirth": "Leinefelde",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "841wx8r4btmvq5vq468orygut",
@@ -5894,7 +5894,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Herford",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8cuuf4ph8qyke8uahfpb448np",
@@ -5907,7 +5907,7 @@
             "type": "player",
             "placeOfBirth": "Kamishli",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8j19g553xmh4lr4kz6r0mqi8l",
@@ -5920,7 +5920,7 @@
             "type": "player",
             "placeOfBirth": "Frankenthal",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8ld1b6e2j7copjq3q1fzra9cl",
@@ -5933,7 +5933,7 @@
             "type": "player",
             "placeOfBirth": "Potsdam",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "94n99mdhwl030hzpqym942fv9",
@@ -5944,7 +5944,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Hattingen",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a4pew5q5xjzs60gdxxbxxbbo5",
@@ -5957,7 +5957,7 @@
             "type": "player",
             "placeOfBirth": "Sarajevo",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a79pt0h2b92sa8t8yratxeb4l",
@@ -5981,7 +5981,7 @@
             "nationalityId": "7dybe8679n9bgyrcxi383pq3y",
             "position": "Midfielder",
             "type": "assistant coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cyz34cdwlfy058918kk84s3it",
@@ -5994,7 +5994,7 @@
             "type": "player",
             "placeOfBirth": "Adenau",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dcejci3stfhs89yw087s3rkr9",
@@ -6007,7 +6007,7 @@
             "type": "player",
             "placeOfBirth": "Wien",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dkj2cs6ooieumatdliqg1nq39",
@@ -6020,7 +6020,7 @@
             "type": "player",
             "placeOfBirth": "Sarajevo",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ewvxll2dftd5j026n393fe2uh",
@@ -6033,7 +6033,7 @@
             "type": "player",
             "placeOfBirth": "Dakar",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "fi5w43t5dnpc38w5fkpcmxud",
@@ -6058,7 +6058,7 @@
             "type": "player",
             "placeOfBirth": "Saarbrücken",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "wupmb2a7lsyqjbgjfpuk6pxx",
@@ -6071,7 +6071,7 @@
             "type": "player",
             "placeOfBirth": "Herdecke",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "zo1zhqie6ms1omivj2oaps5x",
@@ -6084,7 +6084,7 @@
             "type": "player",
             "placeOfBirth": "Ludwigshafen am Rhein",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -6112,7 +6112,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3ndjbliglc5vn0bv3yspa3aad",
@@ -6125,7 +6125,7 @@
             "type": "player",
             "placeOfBirth": "Garmisch-Partenkirchen",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "42q5b24ulqzqwhy8lcbn9t8et",
@@ -6136,7 +6136,7 @@
             "nationalityId": "4fue8u54361o79fbiu9qwxjer",
             "position": "Defender",
             "type": "assistant coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4pu28itweq7urzmmew3rwa8d1",
@@ -6149,7 +6149,7 @@
             "type": "player",
             "placeOfBirth": "Silkeborg",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4q3pjxuylcn6lt2n9plxnzomi",
@@ -6172,7 +6172,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "536qm2sw4cj48jqaz8dsv0wr9",
@@ -6198,7 +6198,7 @@
             "type": "player",
             "placeOfBirth": "Freiburg",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5fd321yg1wxp5w728jkno5fc9",
@@ -6211,7 +6211,7 @@
             "type": "player",
             "placeOfBirth": "Schwäbisch Gmünd",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5mmlceix8egbbf725uckz3yl1",
@@ -6224,7 +6224,7 @@
             "type": "player",
             "placeOfBirth": "Bergisch Gladbach",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5qn6ueyqnmbguy1bb5obfc639",
@@ -6237,7 +6237,7 @@
             "type": "player",
             "placeOfBirth": "Karlsruhe",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6x9vlncmt4slf1058fevwz8bt",
@@ -6250,7 +6250,7 @@
             "type": "player",
             "placeOfBirth": "Freising",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "77wcj82whoaatw7p1bom3rmc5",
@@ -6289,7 +6289,7 @@
             "type": "player",
             "placeOfBirth": "Minden",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8mmecefcbz8wu4jcqqywps5p1",
@@ -6302,7 +6302,7 @@
             "type": "player",
             "placeOfBirth": "Yerevan",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8o08ytpvnxiv8hmx5pedrwyc5",
@@ -6315,7 +6315,7 @@
             "type": "player",
             "placeOfBirth": "Ludwigsburg",
             "shirtNumber": 15,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8s2zlyysnpu3ixb7hq4z5fz6x",
@@ -6327,7 +6327,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8wxsrkkkysi7ulp527oh20esp",
@@ -6337,7 +6337,7 @@
             "nationality": "Germany",
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9kbcfcw82faecyrq1begfq3th",
@@ -6350,7 +6350,7 @@
             "type": "player",
             "placeOfBirth": "Freiburg",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "atp8u0th4x5x4rb6iz122ws89",
@@ -6375,7 +6375,7 @@
             "type": "player",
             "placeOfBirth": "Boppard",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cc6o1up5wxv08viaqzbt3e191",
@@ -6388,7 +6388,7 @@
             "type": "player",
             "placeOfBirth": "Zweibrücken",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cd544gjdhkc7grz87vja11p1",
@@ -6414,7 +6414,7 @@
             "type": "player",
             "placeOfBirth": "Kaiserslautern",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cm8bw7ykipw7vohp2lsyzs8gl",
@@ -6440,7 +6440,7 @@
             "type": "player",
             "placeOfBirth": "Bonn",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dh15r2p7e0c5cwezilhq3fi6t",
@@ -6453,7 +6453,7 @@
             "type": "player",
             "placeOfBirth": "Freiberg",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dq9ish65keou3t1gkas46zjrp",
@@ -6465,7 +6465,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "erprunjg78ogyov4zm53x0kid",
@@ -6491,7 +6491,7 @@
             "type": "player",
             "placeOfBirth": "Mitrovica",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "wxr19wqw6igb4ton7qy3gmh",
@@ -6504,7 +6504,7 @@
             "type": "player",
             "placeOfBirth": "Bremen",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -6533,7 +6533,7 @@
             "type": "player",
             "placeOfBirth": "Karlstadt",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2n0c2lg3p35yytlapo2xj0o2x",
@@ -6570,7 +6570,7 @@
             "position": "Midfielder",
             "type": "player",
             "placeOfBirth": "Kisangani",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3nvijn3ctkplajtt1dd23wycp",
@@ -6583,7 +6583,7 @@
             "type": "player",
             "placeOfBirth": "Austin",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3rs2rifcdresy77354gopf5xx",
@@ -6594,7 +6594,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Chemnitz",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3tkiibyhx6pzep3u3amnj7hsl",
@@ -6607,7 +6607,7 @@
             "type": "player",
             "placeOfBirth": "Kedzierzyn-Kozle",
             "shirtNumber": 15,
-            "active": "yes"
+            "active": "no"
           },
           {
             "id": "40x4zexbflc51jw695tnzqt3p",
@@ -6633,7 +6633,7 @@
             "type": "player",
             "placeOfBirth": "Ludwigsburg",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "43jefcgwm5bsc0m59rk8hpe51",
@@ -6645,7 +6645,7 @@
             "position": "Defender",
             "type": "player",
             "shirtNumber": 37,
-            "active": "yes"
+            "active": "no"
           },
           {
             "id": "45cfao4z49ws7tmpkmp8qphwp",
@@ -6707,7 +6707,7 @@
             "nationalityId": "6lpgd60z890no2v46zdecrcss",
             "type": "coach",
             "placeOfBirth": "Wuppertal",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "54zk6m8npg15dip3wex3baitx",
@@ -6720,7 +6720,7 @@
             "type": "player",
             "placeOfBirth": "Darmstadt",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5f5x4oq6vmje8sn32ii6wsij9",
@@ -6733,7 +6733,7 @@
             "type": "player",
             "placeOfBirth": "Carenage",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6kqt4ah7ed3u1uup6eth8j6qd",
@@ -6746,7 +6746,7 @@
             "type": "player",
             "placeOfBirth": "Novi Sad",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7a226zdy8s9dfc5d3myy46zf9",
@@ -6783,7 +6783,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Bad Lauterberg",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "83vatxnldg8nchqx4m8ss63th",
@@ -6796,7 +6796,7 @@
             "type": "player",
             "placeOfBirth": "Heidelberg",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "861jvgbw0j9bfeqqr9idione2",
@@ -6808,7 +6808,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8b60vtt1stnmt2uoj0f4lh49h",
@@ -6820,7 +6820,7 @@
             "position": "Goalkeeper",
             "type": "player",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8i842hpdlcpwvoz22rlv56s45",
@@ -6833,7 +6833,7 @@
             "type": "player",
             "placeOfBirth": "Baden",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8id8277a2f1uul0t0keqyuvh1",
@@ -6846,7 +6846,7 @@
             "type": "player",
             "placeOfBirth": "Otterup",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8lrj5szdkc8k01idjqbnqapcl",
@@ -6859,7 +6859,7 @@
             "type": "player",
             "placeOfBirth": "Dresden",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8nr9w0ac6iifvwoi8dx0xjf85",
@@ -6872,7 +6872,7 @@
             "type": "player",
             "placeOfBirth": "Leonberg",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9aqzi05rzxjcberb53718z5xx",
@@ -6897,7 +6897,7 @@
             "position": "Attacker",
             "type": "player",
             "placeOfBirth": "Ruda Śląska",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9novchy4dacy3irslbeyne2tx",
@@ -6910,7 +6910,7 @@
             "type": "player",
             "placeOfBirth": "Uelzen",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a75o4ettpu6eutbhptgtk7phx",
@@ -6936,7 +6936,7 @@
             "type": "player",
             "placeOfBirth": "Dachau",
             "shirtNumber": 40,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "awkae2wigzra0tk9sok88n5qt",
@@ -6949,7 +6949,7 @@
             "type": "player",
             "placeOfBirth": "Kirovohrad",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "baxmgkcs0n2i82fz05g0qwpud",
@@ -6974,7 +6974,7 @@
             "type": "player",
             "placeOfBirth": "Siegen",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bnxnv89lsoo9jg9lebc2zgzx1",
@@ -6987,7 +6987,7 @@
             "type": "player",
             "placeOfBirth": "Frechen",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "buvkovmpmrdxr7isnsyzsjaol",
@@ -7000,7 +7000,7 @@
             "type": "player",
             "placeOfBirth": "Düren",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "edi3t79zgcknggoq4vmdtqz11",
@@ -7013,7 +7013,7 @@
             "type": "player",
             "placeOfBirth": "Bremen",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "en171a77ekjc8ppfxspdw41jp",
@@ -7039,7 +7039,7 @@
             "type": "player",
             "placeOfBirth": "Ulm",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -7068,7 +7068,7 @@
             "type": "player",
             "placeOfBirth": "Ludwigsburg",
             "shirtNumber": 36,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "264rfp2mhsxw4s9fuvhpdfaol",
@@ -7081,7 +7081,7 @@
             "type": "player",
             "placeOfBirth": "Sfax",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "28651ocwfakmczfy5gn4v7kyd",
@@ -7117,7 +7117,7 @@
             "type": "player",
             "placeOfBirth": "Kirchen",
             "shirtNumber": 1,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2riiryqzmp55sufhzwgdkffmd",
@@ -7130,7 +7130,7 @@
             "type": "player",
             "placeOfBirth": "Rodalben",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2tshp1w4omzsc4s9owi1y11p1",
@@ -7141,7 +7141,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Kayseri",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "3al06qxuq5yxhjugyj9rd1k2d",
@@ -7154,7 +7154,7 @@
             "type": "player",
             "placeOfBirth": "Zaanstad",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "47ye0gt6bw2ilvl9s0e0ogr11",
@@ -7180,7 +7180,7 @@
             "type": "player",
             "placeOfBirth": "Kassel",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5i0xdzz58jze7i1fxqyz1y0np",
@@ -7244,7 +7244,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 27,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8l443indci9k4q1i3akstjmc5",
@@ -7270,7 +7270,7 @@
             "type": "player",
             "placeOfBirth": "Mannheim",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "97u083i6ktyeu7xf6aqfotzp",
@@ -7283,7 +7283,7 @@
             "type": "player",
             "placeOfBirth": "Bremen",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "98e7uohj6lcvf59sfssff2y8l",
@@ -7296,7 +7296,7 @@
             "type": "player",
             "placeOfBirth": "Bretten",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a8h2ayg1m8s28djapo4qg5ihh",
@@ -7332,7 +7332,7 @@
             "type": "player",
             "placeOfBirth": "Reykjavík",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "byk5vhf9l112i7hhy1clravp",
@@ -7345,7 +7345,7 @@
             "type": "player",
             "placeOfBirth": "Köln",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "c7nq7mou1gyrzl60ho7pmaok5",
@@ -7384,7 +7384,7 @@
             "type": "player",
             "placeOfBirth": "Hamburg",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dlekf02rexguz2rtf28oajzkl",
@@ -7397,7 +7397,7 @@
             "type": "player",
             "placeOfBirth": "Kassel",
             "shirtNumber": 34,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dmkmf1nu3mtotjvzdykez793p",
@@ -7410,7 +7410,7 @@
             "type": "player",
             "placeOfBirth": "Stuttgart",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e2uqfil4tuurmjujxxjph9hat",
@@ -7423,7 +7423,7 @@
             "type": "player",
             "placeOfBirth": "Wien",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ed8csmzfjn0vp8bxlovg0dmtx",
@@ -7436,7 +7436,7 @@
             "type": "player",
             "placeOfBirth": "Bamberg",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ej9l8eqncbpb15pdxgkqhwq1h",
@@ -7449,7 +7449,7 @@
             "type": "player",
             "placeOfBirth": "München",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "elnia8id69tt8i2b2uiukix91",
@@ -7462,7 +7462,7 @@
             "type": "player",
             "placeOfBirth": "Vilsbiburg",
             "shirtNumber": 23,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "f2ofmg5v8gb7c4nyf7g4ipnf9",
@@ -7475,7 +7475,7 @@
             "type": "player",
             "placeOfBirth": "Zschopau",
             "shirtNumber": 12,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "qcu1j3x6cmn0r7f3cx3y4yc5",
@@ -7488,7 +7488,7 @@
             "type": "player",
             "placeOfBirth": "Freiburg im Breisgau",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -7529,7 +7529,7 @@
             "type": "player",
             "placeOfBirth": "Passau",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "214h13gjmo8y4pw3wwvljc0k5",
@@ -7542,7 +7542,7 @@
             "type": "player",
             "placeOfBirth": "Malmö",
             "shirtNumber": 5,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "2uz1cmslnjjzsgfcgji26kqg9",
@@ -7567,7 +7567,7 @@
             "type": "player",
             "placeOfBirth": "Fukuoka",
             "shirtNumber": 6,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4qwkz81tf5zv3bopcimbsacb9",
@@ -7580,7 +7580,7 @@
             "type": "player",
             "placeOfBirth": "Celje",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4sen3h54ijhx9wqppfi7vl4gl",
@@ -7617,7 +7617,7 @@
             "type": "player",
             "placeOfBirth": "Regensburg",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5gyjq8tsjxk396qt4hqlwn3dh",
@@ -7630,7 +7630,7 @@
             "type": "player",
             "placeOfBirth": "Freising",
             "shirtNumber": 3,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5qc0owkwmgk74qy13ft3kpg5",
@@ -7643,7 +7643,7 @@
             "type": "player",
             "placeOfBirth": "Aachen",
             "shirtNumber": 29,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "5rp8s6utr0wuxv6iw19gx03x1",
@@ -7656,7 +7656,7 @@
             "type": "player",
             "placeOfBirth": "Salzgitter",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "602fyni27c129xjs9ziyn5as5",
@@ -7669,7 +7669,7 @@
             "type": "player",
             "placeOfBirth": "Magdeburg",
             "shirtNumber": 33,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6g5aevunoebhdmmo5gexpe9jp",
@@ -7682,7 +7682,7 @@
             "type": "player",
             "placeOfBirth": "Wiesbaden",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6sguyurc6kfuesyogccvgplg5",
@@ -7695,7 +7695,7 @@
             "type": "player",
             "placeOfBirth": "Villingen-Schwenningen",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "71y8ix489jjg545vf94e7glpl",
@@ -7708,7 +7708,7 @@
             "type": "player",
             "placeOfBirth": "Accra",
             "shirtNumber": 14,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7949n798ht6wt5lhr1syc7tg5",
@@ -7721,7 +7721,7 @@
             "type": "player",
             "placeOfBirth": "Spittal an der Drau",
             "shirtNumber": 4,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7993zd77mhuivbcduqzu5qgut",
@@ -7732,7 +7732,7 @@
             "nationalityId": "37hlakrwxyuzovaeoo4sezusp",
             "type": "coach",
             "placeOfBirth": "Split",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7m9utvsuy74v1y2qa7fpvdm8l",
@@ -7745,7 +7745,7 @@
             "type": "player",
             "placeOfBirth": "Nienburg",
             "shirtNumber": 7,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7pxarimc98tvv7lxu6m71kxqt",
@@ -7783,7 +7783,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 40,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "84ufln428ljujqqs3i7kpra39",
@@ -7795,7 +7795,7 @@
             "position": "Defender",
             "type": "assistant coach",
             "placeOfBirth": "Stuttgart",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "87jamhsc8ps9kh5432u36kjc9",
@@ -7833,7 +7833,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bbfl8vdz0htr9pcl641q9byl1",
@@ -7846,7 +7846,7 @@
             "type": "player",
             "placeOfBirth": "Kiel",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "brnkbswvgwnyebg07goqyfnxl",
@@ -7895,7 +7895,7 @@
             "type": "player",
             "placeOfBirth": "Zagreb",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dvljd3jdouhags70b4rv7jl5h",
@@ -7908,7 +7908,7 @@
             "type": "player",
             "placeOfBirth": "Wuppertal",
             "shirtNumber": 10,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ev73ja3lqg6g947fbb0ux79hx",
@@ -7934,7 +7934,7 @@
             "type": "player",
             "placeOfBirth": "Forchheim",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "f1fqy6hf0ifxdxexlqldcuwo9",
@@ -7947,7 +7947,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 8,
-            "active": "no"
+            "active": "yes"
           }
         ]
       },
@@ -8002,7 +8002,7 @@
             "type": "player",
             "placeOfBirth": "Gelsenkirchen",
             "shirtNumber": 26,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "40x4zexbflc51jw695tnzqt3p",
@@ -8015,7 +8015,7 @@
             "type": "player",
             "placeOfBirth": "Neunkirchen",
             "shirtNumber": 9,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4rkpti2lhdeozribjeijloueh",
@@ -8028,7 +8028,7 @@
             "type": "player",
             "placeOfBirth": "Hemer",
             "shirtNumber": 30,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "4xj7we6d27hkb9pufjtiriyju",
@@ -8040,7 +8040,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 28,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "653tbzo0zqn9hdd9osm9hgxxx",
@@ -8053,7 +8053,7 @@
             "type": "player",
             "placeOfBirth": "Marl",
             "shirtNumber": 2,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "6sc9zsev9an853nop6pn6mxg5",
@@ -8079,7 +8079,7 @@
             "type": "player",
             "placeOfBirth": "Kitzbühel",
             "shirtNumber": 16,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7syfkniyx4p2wu1fomtql6ml1",
@@ -8092,7 +8092,7 @@
             "type": "player",
             "placeOfBirth": "Witten",
             "shirtNumber": 32,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "7zkku0gboniozaks9yx0ous8a",
@@ -8131,7 +8131,7 @@
             "type": "player",
             "placeOfBirth": "Marl",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "8uwb90ngooahfijdm2z17pihh",
@@ -8144,7 +8144,7 @@
             "type": "player",
             "placeOfBirth": "Horn",
             "shirtNumber": 22,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9bag4i440zbueadp7egobcs7p",
@@ -8157,7 +8157,7 @@
             "type": "player",
             "placeOfBirth": "Günzburg",
             "shirtNumber": 21,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9k8gysrsy1a261nhcszo4aoyx",
@@ -8169,7 +8169,7 @@
             "position": "Midfielder",
             "type": "player",
             "shirtNumber": 20,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "9xftmtdsxbuu2itzhi3v1xbdh",
@@ -8195,7 +8195,7 @@
             "type": "player",
             "placeOfBirth": "Hagen",
             "shirtNumber": 19,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "a71wygxax96wkt81waagp2itx",
@@ -8208,7 +8208,7 @@
             "type": "player",
             "placeOfBirth": "Kaiserslautern",
             "shirtNumber": 24,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "aas95a6tpjnq4w3se9iaxmz85",
@@ -8221,7 +8221,7 @@
             "type": "player",
             "placeOfBirth": "Korbach",
             "shirtNumber": 25,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "b4nhg3vhd88m8agzonqgrshxx",
@@ -8234,7 +8234,7 @@
             "type": "player",
             "placeOfBirth": "Brisbane",
             "shirtNumber": 17,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bawu9nz1o02j0f7z4rdc0wrca",
@@ -8247,7 +8247,7 @@
             "type": "player",
             "placeOfBirth": "Larisa",
             "shirtNumber": 38,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "bozuj7wt04auv7umfo9ca1wid",
@@ -8272,7 +8272,7 @@
             "type": "player",
             "placeOfBirth": "Essen",
             "shirtNumber": 31,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "ci4pwzieoc94uj3i1371bsatx",
@@ -8285,7 +8285,7 @@
             "type": "player",
             "placeOfBirth": "Berlin",
             "shirtNumber": 18,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "cjok1odm3twxo7sqye3hua6eh",
@@ -8347,7 +8347,7 @@
             "nationalityId": "36min0qztu8eydwvpv8t1is0m",
             "type": "coach",
             "placeOfBirth": "Köln",
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "dadiwuzf33969g3808sdd9brp",
@@ -8373,7 +8373,7 @@
             "type": "player",
             "placeOfBirth": "Seoul",
             "shirtNumber": 11,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "e5olko8ztgtly8k2syngxfdud",
@@ -8386,7 +8386,7 @@
             "type": "player",
             "placeOfBirth": "Kiel",
             "shirtNumber": 13,
-            "active": "no"
+            "active": "yes"
           },
           {
             "id": "eiydye1qz2fzvtv4z0ogl6xn9",
@@ -8412,7 +8412,7 @@
             "type": "player",
             "placeOfBirth": "Brazzaville",
             "shirtNumber": 35,
-            "active": "no"
+            "active": "yes"
           }
         ]
       }
