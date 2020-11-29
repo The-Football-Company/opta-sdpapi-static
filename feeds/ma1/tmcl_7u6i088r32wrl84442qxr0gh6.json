@@ -1,0 +1,1021 @@
+{
+    "match": [
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000001",
+          "coverageLevel": "13",
+          "date": "2020-09-18Z",
+          "time": "18:30:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Regensburg vs Nurnberg",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "d4p104ikzzt5hfwdzppbmp7e0",
+              "name": "Jahn Regensburg",
+              "shortName": "Regensburg",
+              "officialName": "SSV Jahn 2000 Regensburg",
+              "code": "REG",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx05",
+              "name": "Nuremberg",
+              "shortName": "Nuremberg",
+              "officialName": "1. FC Nuremberg",
+              "code": "EBS",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "draw",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-18T18:03:02Z",
+                "end": "2020-09-18T19:16:09Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-18T19:32:40Z",
+                "end": "2020-09-18T20:19:47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 0,
+                "away": 1
+              },
+              "ft": {
+                "home": 1,
+                "away": 1
+              },
+              "total": {
+                "home": 1,
+                "away": 1
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000002",
+          "coverageLevel": "13",
+          "date": "2020-09-18Z",
+          "time": "18:30:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Hamburger SV vs Dusseldrf",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "75xi6hloabmnjn2kzgj1g8h1s",
+              "name": "Hamburger SV",
+              "shortName": "Hamburger",
+              "officialName": "Hamburger SV",
+              "code": "HSV",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx02",
+              "name": "Fortuna Dusseldorf",
+              "shortName": "Dusseldorf",
+              "officialName": "Fortuna Dusseldorf",
+              "code": "FDS",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "home",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-18T18:03:02Z",
+                "end": "2020-09-18T19:16:09Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-18T19:32:40Z",
+                "end": "2020-09-18T20:19:47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 1,
+                "away": 0
+              },
+              "ft": {
+                "home": 2,
+                "away": 1
+              },
+              "total": {
+                "home": 2,
+                "away": 1
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000003",
+          "coverageLevel": "13",
+          "date": "2020-09-19Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Wurzburger Kickers vs Aue",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx07",
+              "name": "Würzburger Kickers",
+              "shortName": "Kickers",
+              "officialName": "FC Würzburger Kickers",
+              "code": "WUK",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "m5tpogrj0txk7qjdbb57wba",
+              "name": "Erzgebirge Aue",
+              "shortName": "Aue",
+              "officialName": "FC Erzgebirge Aue",
+              "code": "AUE",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "away",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-19T13:00:00Z",
+                "end": "2020-09-19T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-19T14:01:40Z",
+                "end": "2020-09-19T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 0,
+                "away": 0
+              },
+              "ft": {
+                "home": 0,
+                "away": 3
+              },
+              "total": {
+                "home": 0,
+                "away": 3
+              }
+            }
+          }
+        }  
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000004",
+          "coverageLevel": "13",
+          "date": "2020-09-19Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "X vs Y",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "884uzyf1wosc7ykji6e18gifp",
+              "name": "Sandhausen",
+              "shortName": "Sandhausen",
+              "officialName": "SV Sandhausen",
+              "code": "SVS",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "1y7e48j8swyafegsucvewse5a",
+              "name": "Darmstadt 98",
+              "shortName": "Darmstadt 98",
+              "officialName": "SV Darmstadt 1898",
+              "code": "D98",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "home",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-19T13:00:00Z",
+                "end": "2020-09-19T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-19T14:01:40Z",
+                "end": "2020-09-19T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 2,
+                "away": 1
+              },
+              "ft": {
+                "home": 3,
+                "away": 2
+              },
+              "total": {
+                "home": 3,
+                "away": 2
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000005",
+          "coverageLevel": "13",
+          "date": "2020-09-19Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Hannover vs Karlsruhe",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx06",
+              "name": "Hanover",
+              "shortName": "Hanover",
+              "officialName": "Hanover 96",
+              "code": "HNV",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx04",
+              "name": "Karlsruher SC",
+              "shortName": "Karlsruher",
+              "officialName": "Karlsruher SC",
+              "code": "KAR",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "home",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-19T13:00:00Z",
+                "end": "2020-09-19T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-19T14:01:40Z",
+                "end": "2020-09-19T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 1,
+                "away": 0
+              },
+              "ft": {
+                "home": 2,
+                "away": 0
+              },
+              "total": {
+                "home": 2,
+                "away": 0
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000006",
+          "coverageLevel": "13",
+          "date": "2020-09-20",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Holstein Kiel vs Paderborn",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "6zwg0wxjie31da2i4wwh2h4ho",
+              "name": "Holstein Kiel",
+              "shortName": "Holstein",
+              "officialName": "Kieler SV Holstein 1900",
+              "code": "KSV",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "62ljqd4za2a6svd9wgctg8b53",
+              "name": "Paderborn",
+              "shortName": "Paderborn",
+              "officialName": "SC Paderborn 07",
+              "code": "PAD",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "draw",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-20T13:00:00Z",
+                "end": "2020-09-20T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-20T14:01:40Z",
+                "end": "2020-09-20T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 0,
+                "away": 0
+              },
+              "ft": {
+                "home": 0,
+                "away": 0
+              },
+              "total": {
+                "home": 0,
+                "away": 0
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000007",
+          "coverageLevel": "13",
+          "date": "2020-09-20Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Heidenheim vs Braunschweig",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "3xcg7xikgrn2x8oa65sopb2is",
+              "name": "Heidenheim",
+              "shortName": "Heidenheim",
+              "officialName": "1. FC Heidenheim 1846",
+              "code": "HDH",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx03",
+              "name": "Eintracht Braunschwig",
+              "shortName": "Braunschwig",
+              "officialName": "Eintracht Braunschwig",
+              "code": "EBR",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "home",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-20T13:00:00Z",
+                "end": "2020-09-20T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-20T14:01:40Z",
+                "end": "2020-09-20T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 1,
+                "away": 0
+              },
+              "ft": {
+                "home": 2,
+                "away": 0
+              },
+              "total": {
+                "home": 2,
+                "away": 0
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000008",
+          "coverageLevel": "13",
+          "date": "2020-09-20Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Greuther Fürth vs VfL Osnabrück",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "tmbl2xxxxxxxxxxxxxxxx01",
+              "name": "VfL Osnabrück",
+              "shortName": "Osnabrück",
+              "officialName": "VfL Osnabrück",
+              "code": "OSN",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "9dlxuym0eab00j9ggrdr87soj",
+              "name": "Greuther Fürth",
+              "shortName": "Greuther Fürth",
+              "officialName": "SpVgg Greuther Fürth",
+              "code": "SGF",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "draw",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-20T13:00:00Z",
+                "end": "2020-09-20T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-20T14:01:40Z",
+                "end": "2020-09-20T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 1,
+                "away": 1
+              },
+              "ft": {
+                "home": 1,
+                "away": 1
+              },
+              "total": {
+                "home": 1,
+                "away": 1
+              }
+            }
+          }
+        }
+      },
+      {
+        "matchInfo": {
+          "id": "bl2020-21-0000000009",
+          "coverageLevel": "13",
+          "date": "2020-09-21Z",
+          "time": "13:00:00Z",
+          "week": "1",
+          "lastUpdated": "2020-11-30T19:59:26Z",
+          "description": "Bochum vs St. Pauli",
+          "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+          },
+          "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+          },
+          "competition": {
+            "id": "722fdbecxzcq9788l6jqclzlw",
+            "name": "2. Bundesliga",
+            "competitionCode": "2.B",
+            "competitionFormat": "Domestic league",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          "tournamentCalendar": {
+            "id": "7u6i088r32wrl84442qxr0gh6",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "2020/2021"
+          },
+          "stage": {
+            "id": "6tca7sbnh37w596ws64rrez8p",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2020-09-18Z",
+            "endDate": "2021-05-23Z",
+            "name": "Regular Season"
+          },
+          "contestant": [
+            {
+              "id": "85jtaw5dcxxx1yp8te6axh3p8",
+              "name": "St. Pauli",
+              "shortName": "St. Pauli",
+              "officialName": "FC St. Pauli",
+              "code": "STP",
+              "position": "away",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            },
+            {
+              "id": "eq1oq6y61xnzq88zu0cnw131z",
+              "name": "Bochum",
+              "shortName": "Bochum",
+              "officialName": "VfL Bochum 1848",
+              "code": "BOC",
+              "position": "home",
+              "country": {
+                "id": "36min0qztu8eydwvpv8t1is0m",
+                "name": "Germany"
+              }
+            }
+          ],
+          "venue": {
+            "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+            "neutral": "no",
+            "longName": "Wildparkstadion",
+            "shortName": "Wildparkstadion"
+          }
+        },
+        "liveData": {
+          "matchDetails": {
+            "periodId": 14,
+            "matchStatus": "Played",
+            "winner": "draw",
+            "matchLengthMin": 93,
+            "matchLengthSec": 14,
+            "period": [
+              {
+                "id": 1,
+                "start": "2020-09-21T13:00:00Z",
+                "end": "2020-09-21T13:46:07Z",
+                "lengthMin": 46,
+                "lengthSec": 7
+              },
+              {
+                "id": 2,
+                "start": "2020-09-21T14:01:40Z",
+                "end": "2020-09-21T14::47Z",
+                "lengthMin": 47,
+                "lengthSec": 7
+              }
+            ],
+            "scores": {
+              "ht": {
+                "home": 1,
+                "away": 0
+              },
+              "ft": {
+                "home": 2,
+                "away": 2
+              },
+              "total": {
+                "home": 2,
+                "away": 2
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
