@@ -29,9 +29,9 @@
           "type": "total",
           "ranking": [
             {
-              "id": "rank-id-0000000000001",
               "rank": 1,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000001",
               "contestantId": "9dlxuym0eab00j9ggrdr87soj",
               "contestantName": "Greuther Fürth",
               "contestantShortName": "Greuther Fürth",
@@ -48,9 +48,9 @@
               "lastSix": "WWWWW"
             },
             {
-              "id": "rank-id-0000000000002",
               "rank": 2,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000002",
               "contestantId": "eq1oq6y61xnzq88zu0cnw131z",
               "contestantName": "Bochum",
               "contestantShortName": "Bochum",
@@ -67,9 +67,9 @@
               "lastSix": "WWLWW"
             },
             {
-              "id": "rank-id-0000000000003",
               "rank": 3,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000003",
               "contestantId": "75xi6hloabmnjn2kzgj1g8h1s",
               "contestantName": "Hamburger SV",
               "contestantShortName": "Hamburg",
@@ -86,9 +86,9 @@
               "lastSix": "WDDLL"
             },
             {
-              "id": "rank-id-0000000000004",
               "rank": 4,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000004",
               "contestantId": "6zwg0wxjie31da2i4wwh2h4ho",
               "contestantName": "Holstein Kiel",
               "contestantShortName": "Holstein",
@@ -105,9 +105,9 @@
               "lastSix": "LDDDW"
             },
             {
-              "id": "rank-id-0000000000005",
               "rank": 5,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000005",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx01",
               "contestantName": "VfL Osnabrück",
               "contestantShortName": "Osnabrück",
@@ -124,9 +124,9 @@
               "lastSix": "DWWLW"
             },
             {
-              "id": "rank-id-0000000000006",
               "rank": 6,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000006",
               "contestantId": "m5tpogrj0txk7qjdbb57wba",
               "contestantName": "Erzgebirge Aue",
               "contestantShortName": "Aue",
@@ -143,9 +143,9 @@
               "lastSix": "LDDWW"
             },
             {
-              "id": "rank-id-0000000000007",
               "rank": 7,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000007",
               "contestantId": "62ljqd4za2a6svd9wgctg8b53",
               "contestantName": "Paderborn",
               "contestantShortName": "Paderborn",
@@ -162,9 +162,9 @@
               "lastSix": "DWWWL"
             },
             {
-              "id": "rank-id-0000000000008",
               "rank": 8,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000008",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx04",
               "contestantName": "Karlsruher SC",
               "contestantShortName": "Karlsruher SC",
@@ -181,9 +181,9 @@
               "lastSix": "DLWWW"
             },
             {
-              "id": "rank-id-0000000000009",
               "rank": 9,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000009",
               "contestantId": "3xcg7xikgrn2x8oa65sopb2is",
               "contestantName": "Heidenheim",
               "contestantShortName": "Heidenheim",
@@ -200,9 +200,9 @@
               "lastSix": "DLWDL"
             },
             {
-              "id": "rank-id-0000000000010",
               "rank": 10,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000010",
               "contestantId": "d4p104ikzzt5hfwdzppbmp7e0",
               "contestantName": "Jahn Regensburg",
               "contestantShortName": "Regensburg",
@@ -219,9 +219,9 @@
               "lastSix": "WLLLW"
             },
             {
-              "id": "rank-id-0000000000011",
               "rank": 11,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000011",
               "contestantId": "1y7e48j8swyafegsucvewse5a",
               "contestantName": "Darmstadt 98",
               "contestantShortName": "Darmstadt 98",
@@ -238,9 +238,9 @@
               "lastSix": "DWLLW"
             },
             {
-              "id": "rank-id-0000000000012",
               "rank": 12,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000012",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx02",
               "contestantName": "Fortuna Dusseldorf",
               "contestantShortName": "Fortuna Dusseldorf",
@@ -257,9 +257,9 @@
               "lastSix": "LWDWL"
             },
             {
-              "id": "rank-id-0000000000013",
               "rank": 13,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000013",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx05",
               "contestantName": "Nuremberg",
               "contestantShortName": "Nuremberg",
@@ -276,9 +276,9 @@
               "lastSix": "DLDWL"
             },
             {
-              "id": "rank-id-0000000000014",
               "rank": 14,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000014",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx06",
               "contestantName": "Hanover",
               "contestantShortName": "Hanover",
@@ -295,9 +295,9 @@
               "lastSix": "WLDLL"
             },
             {
-              "id": "rank-id-0000000000015",
               "rank": 15,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000015",
               "contestantId": "884uzyf1wosc7ykji6e18gifp",
               "contestantName": "Sandhausen",
               "contestantShortName": "Sandhausen",
@@ -314,9 +314,9 @@
               "lastSix": "DLDLL"
             },
             {
-              "id": "rank-id-0000000000016",
               "rank": 16,
               "rankStatus": "Promotion",
+              "rankId": "rank-id-0000000000016",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx03",
               "contestantName": "Eintracht Braunschwig",
               "contestantShortName": "Eintracht Braunschwig",
@@ -333,9 +333,9 @@
               "lastSix": "LWDLL"
             },
             {
-              "id": "rank-id-0000000000017",
               "rank": 17,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000017",
               "contestantId": "85jtaw5dcxxx1yp8te6axh3p8",
               "contestantName": "St. Pauli",
               "contestantShortName": "St. Pauli",
@@ -352,9 +352,9 @@
               "lastSix": "DDLLL"
             },
             {
-              "id": "rank-id-0000000000018",
               "rank": 18,
               "rankStatus": "Relegation",
+              "rankId": "rank-id-0000000000018",
               "contestantId": "tmbl2xxxxxxxxxxxxxxxx07",
               "contestantName": "Würzburger Kickers",
               "contestantShortName": "Kickers",
