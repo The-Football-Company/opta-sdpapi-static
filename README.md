@@ -22,8 +22,13 @@
 - Budesliga 2. for 2020/21: 1-yO8EnhIxP1yEBcTpJiAhaeeLpE5eSdiHOS_uAXAd28
 
 
+### TM2 Feed (Team Standings)
+- Budesliga 2. for 2020/21 / tmcl=7u6i088r32wrl84442qxr0gh6
+
+**GSHEET:**
+- Budesliga 2. for 2020/21: 1-ktzsBZSCQSeTlETFfhTAyH1embZUWwtTUDyl-BdNUQ
+
 ### TM3 (Squds)
 
 - 2. Budesliga for 2018/19 / tmcl=dysl7zks3m5t3gc5k2c6rkd4a
 - 2. Budesliga for 2020/21 / tmcl=7u6i088r32wrl84442qxr0gh6
-
