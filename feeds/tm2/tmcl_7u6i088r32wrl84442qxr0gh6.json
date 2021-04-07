@@ -165,7 +165,7 @@
               "rank": 8,
               "rankStatus": "Promotion",
               "rankId": "rank-id-0000000000008",
-              "contestantId": "tmbl2xxxxxxxxxxxxxxxx04",
+              "contestantId": "aojwbjr39s1w2mcd9l2bf2dhk",
               "contestantName": "Karlsruher SC",
               "contestantShortName": "Karlsruher SC",
               "contestantClubName": "Karlsruher SC",
@@ -317,7 +317,7 @@
               "rank": 16,
               "rankStatus": "Promotion",
               "rankId": "1xs4pt1q7317qb9ls31jycknh",
-              "contestantId": "tmbl2xxxxxxxxxxxxxxxx03",
+              "contestantId": "kxpw3rqn4ukt7nqmtjj62lbn",
               "contestantName": "Eintracht Braunschwig",
               "contestantShortName": "Eintracht Braunschwig",
               "contestantClubName": "Eintracht Braunschwig",
@@ -374,5 +374,6 @@
         }
       ]
     }
-  ]
+  ],
+  "lastUpdated": "2020-01-01T22:39:46Z"
 }
